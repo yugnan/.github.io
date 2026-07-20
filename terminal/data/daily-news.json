@@ -1,0 +1,54 @@
+{
+  "updated_at": "2026-07-20T06:00:00+07:00",
+  "date_label": "Senin, 20 Juli 2026",
+  "items": [
+    {
+      "category": "Makro Ekonomi",
+      "title": "BI Tahan Suku Bunga Acuan di Level 6,00%",
+      "source": "Kontan",
+      "source_url": "https://www.kontan.co.id/",
+      "published_at": "2026-07-20T08:00:00+07:00",
+      "summary": [
+        "Bank Indonesia mempertahankan BI-Rate untuk bulan kedua berturut-turut demi menjaga stabilitas rupiah.",
+        "Inflasi inti Juni tercatat 2,8% YoY, masih dalam rentang target BI.",
+        "Analis memperkirakan ruang pemangkasan suku bunga terbuka pada kuartal IV jika The Fed mulai melonggarkan kebijakan."
+      ]
+    },
+    {
+      "category": "Pasar Saham",
+      "title": "IHSG Ditutup Menguat Ditopang Sektor Perbankan",
+      "source": "Bisnis.com",
+      "source_url": "https://www.bisnis.com/",
+      "published_at": "2026-07-20T16:30:00+07:00",
+      "summary": [
+        "IHSG naik 0,7% ke level 7.850, didorong penguatan saham-saham bank besar.",
+        "Asing tercatat net buy Rp420 miliar di pasar reguler.",
+        "Sektor teknologi tertekan seiring aksi ambil untung investor."
+      ]
+    },
+    {
+      "category": "Kripto & Komoditas",
+      "title": "Harga Emas Naik Tipis di Tengah Ketidakpastian Global",
+      "source": "CNBC Indonesia",
+      "source_url": "https://www.cnbcindonesia.com/",
+      "published_at": "2026-07-20T14:00:00+07:00",
+      "summary": [
+        "Harga emas dunia naik 0,3% ke US$2.410 per troy ons.",
+        "Bitcoin bergerak di kisaran US$68.000, relatif stabil dalam 24 jam terakhir.",
+        "Investor menanti data ketenagakerjaan AS akhir pekan ini."
+      ]
+    },
+    {
+      "category": "Kebijakan & Regulasi",
+      "title": "OJK Terbitkan Aturan Baru Perlindungan Investor Ritel",
+      "source": "Katadata",
+      "source_url": "https://katadata.co.id/",
+      "published_at": "2026-07-20T10:15:00+07:00",
+      "summary": [
+        "OJK memperketat kewajiban transparansi biaya produk investasi bagi platform digital.",
+        "Aturan mulai berlaku efektif per 1 Januari 2027.",
+        "Pelaku industri diberi masa transisi enam bulan untuk penyesuaian sistem."
+      ]
+    }
+  ]
+}

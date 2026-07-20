@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FinPlan Terminal — Ringkasan Berita Harian</title>
+<meta name="description" content="Ringkasan berita finansial harian otomatis dari berbagai media, untuk insight cepat setiap hari.">
+<style>
+  :root {
+    --bg: #0b0e14;
+    --panel: #131722;
+    --border: #232838;
+    --text: #e6e9f0;
+    --muted: #8a92a6;
+    --accent: #35d07f;
+    --accent-dim: #1f6b46;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .logo {
+    font-family: "Courier New", monospace;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+  }
+  .logo span { color: var(--accent); }
+  .meta {
+    color: var(--muted);
+    font-size: 13px;
+  }
+  main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 24px;
+  }
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+  }
+  .tab {
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--muted);
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 13px;
+    cursor: pointer;
+  }
+  .tab.active {
+    color: var(--bg);
+    background: var(--accent);
+    border-color: var(--accent);
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 14px;
+  }
+  .card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .badge {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--accent);
+    border: 1px solid var(--accent-dim);
+    background: rgba(53, 208, 127, 0.08);
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
+  .timestamp {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .card h3 {
+    margin: 0 0 8px;
+    font-size: 17px;
+    line-height: 1.4;
+  }
+  .card ul {
+    margin: 0 0 10px;
+    padding-left: 18px;
+    color: #c7cbd6;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .card-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 13px;
+  }
+  .source {
+    color: var(--muted);
+  }
+  .card a.readmore {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .card a.readmore:hover { text-decoration: underline; }
+  .empty, .error {
+    color: var(--muted);
+    text-align: center;
+    padding: 40px 0;
+    font-size: 14px;
+  }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 12px;
+    padding: 24px;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">FINPLAN <span>TERMINAL</span></div>
+  <div class="meta" id="updated-at">Memuat pembaruan terakhir…</div>
+</header>
+
+<main>
+  <div class="tabs" id="tabs"></div>
+  <div id="feed"></div>
+</main>
+
+<footer>
+  Ringkasan dibuat otomatis dari beberapa sumber berita. Selalu verifikasi ke sumber asli sebelum mengambil keputusan investasi.
+</footer>
+
+<script>
+  const DATA_URL = "data/daily-news.json";
+
+  // Fallback dipakai kalau file dibuka langsung dari disk (file://) sehingga fetch() diblokir browser.
+  const FALLBACK_DATA = {
+    updated_at: null,
+    date_label: "",
+    items: []
+  };
+
+  const state = { items: [], activeCategory: "Semua" };
+
+  async function loadData() {
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return await res.json();
+    } catch (err) {
+      console.warn("Gagal memuat data harian, pakai fallback:", err);
+      return FALLBACK_DATA;
+    }
+  }
+
+  function formatTime(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    return d.toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Jakarta" }) + " WIB";
+  }
+
+  function renderTabs(items) {
+    const categories = ["Semua", ...new Set(items.map(i => i.category))];
+    const tabsEl = document.getElementById("tabs");
+    tabsEl.innerHTML = "";
+    categories.forEach(cat => {
+      const btn = document.createElement("button");
+      btn.className = "tab" + (cat === state.activeCategory ? " active" : "");
+      btn.textContent = cat;
+      btn.onclick = () => {
+        state.activeCategory = cat;
+        renderTabs(items);
+        renderFeed();
+      };
+      tabsEl.appendChild(btn);
+    });
+  }
+
+  function renderFeed() {
+    const feedEl = document.getElementById("feed");
+    const items = state.activeCategory === "Semua"
+      ? state.items
+      : state.items.filter(i => i.category === state.activeCategory);
+
+    if (!items.length) {
+      feedEl.innerHTML = '<div class="empty">Belum ada ringkasan berita untuk hari ini.</div>';
+      return;
+    }
+
+    feedEl.innerHTML = items.map(item => `
+      <article class="card">
+        <div class="card-top">
+          <span class="badge">${item.category}</span>
+          <span class="timestamp">${formatTime(item.published_at)}</span>
+        </div>
+        <h3>${item.title}</h3>
+        <ul>
+          ${item.summary.map(point => `<li>${point}</li>`).join("")}
+        </ul>
+        <div class="card-bottom">
+          <span class="source">Sumber: ${item.source}</span>
+          <a class="readmore" href="${item.source_url}" target="_blank" rel="noopener noreferrer">Baca sumber asli →</a>
+        </div>
+      </article>
+    `).join("");
+  }
+
+  loadData().then(data => {
+    state.items = data.items || [];
+    document.getElementById("updated-at").textContent = data.date_label
+      ? `Diperbarui: ${data.date_label}`
+      : "Belum ada data terbaru";
+    renderTabs(state.items);
+    renderFeed();
+  });
+</script>
+
+</body>
+</html>
