@@ -296,9 +296,11 @@ const disclosures = [
 ];
 
 // Berita media (non-pemerintah): hasil resume otomatis dari RSS media massa, sebagai tambahan di luar
-// kalender resmi (BI/BPS/OJK/Fed) dan keterbukaan informasi IDX di atas. Di produksi, array ini yang akan
-// ditimpa tiap hari oleh pipeline fetch RSS + resume otomatis.
-const mediaNews = [
+// kalender resmi (BI/BPS/OJK/Fed) dan keterbukaan informasi IDX di atas. Nilai awal di bawah dipakai
+// sebagai fallback kalau terminal/data/media-news.json gagal dimuat (mis. dibuka langsung dari disk).
+// Di produksi, file JSON itu yang ditimpa tiap hari oleh scripts/fetch-news.mjs lewat GitHub Actions.
+const MEDIA_DATA_URL = "data/media-news.json";
+let mediaNews = [
   { date: "2026-07-09", source: "Kontan", sourceUrl: "https://www.kontan.co.id/", headline: "IHSG Ditutup Menguat Ditopang Sektor Perbankan", body: "IHSG naik 0,7% ke level 7.850, didorong penguatan saham-saham bank besar BBCA dan BBRI. Asing tercatat net buy Rp420 miliar di pasar reguler.", sectors: ["perbankan"] },
   { date: "2026-07-08", source: "CNBC Indonesia", sourceUrl: "https://www.cnbcindonesia.com/", headline: "Harga Batu Bara Global Naik Tipis, Emiten Tambang Diuntungkan", body: "Harga batu bara acuan naik 1,2% seiring permintaan musim dingin di Asia Timur; saham-saham emiten tambang batu bara seperti PTBA dan ADRO ikut terangkat.", sectors: ["energi"] },
   { date: "2026-07-08", source: "Bisnis.com", sourceUrl: "https://www.bisnis.com/", headline: "Penjualan Mobil Nasional Juni Tumbuh 4% YoY", body: "Data Gaikindo menunjukkan penjualan mobil domestik tumbuh, didorong permintaan kendaraan niaga; ASII jadi salah satu penerima manfaat utama.", sectors: ["otomotif"] },
@@ -651,15 +653,29 @@ document.getElementById("explainer-toggle").addEventListener("click", (e) => {
   e.currentTarget.classList.toggle("open");
 });
 
-renderQuickSectors();
-renderChips();
-renderFilters();
-renderEvents();
-renderDisclosures();
-renderMediaNews();
-renderDigest();
-renderNewsSummary();
-renderLesson();
+async function loadMediaNews() {
+  try {
+    const res = await fetch(MEDIA_DATA_URL, { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    if (Array.isArray(data.items) && data.items.length) mediaNews = data.items;
+  } catch (err) {
+    console.warn("Gagal memuat berita media terbaru, pakai data contoh:", err);
+  }
+}
+
+(async () => {
+  await loadMediaNews();
+  renderQuickSectors();
+  renderChips();
+  renderFilters();
+  renderEvents();
+  renderDisclosures();
+  renderMediaNews();
+  renderDigest();
+  renderNewsSummary();
+  renderLesson();
+})();
 </script>
 </body>
 </html>
