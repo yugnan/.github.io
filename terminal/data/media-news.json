@@ -1,4 +1,57 @@
 {
-  "updated_at": "2026-07-23T01:44:34.072Z",
-  "items": []
+  "updated_at": "2026-07-26T01:43:03.861Z",
+  "items": [
+    {
+      "date": "2026-07-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8590325/mobil-listrik-china-pukul-industri-jerman-vw-pangkas-100-000-karyawan",
+      "headline": "Mobil Listrik China Pukul Industri Jerman, VW Pangkas 100.000 Karyawan",
+      "body": "Produsen otomotif ternama asal Jerman, Volkswagen atau VW, berencana melakukan restrukturisasi besar-besaran.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8590436/peringati-hari-mangrove-sedunia-antam-tanam-5-000-bibit-mangrove",
+      "headline": "Peringati Hari Mangrove Sedunia, ANTAM Tanam 5.000 Bibit Mangrove",
+      "body": "PT ANTAM dan KLH merayakan Hari Mangrove Sedunia dengan menanam 5.000 bibit mangrove, mendukung pelestarian lingkungan dan pembangunan berkelanjutan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-07-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8590321/200-bank-antre-mau-merger-ini-bocorannya",
+      "headline": "200 Bank Antre Mau Merger, Ini Bocorannya",
+      "body": "Sebanyak 200 Bank Perekonomian Rakyat (BPR)/Bank Perekonomian Rakyat Syariah (BPRS) dalam proses perizinan penggabungan atau peleburan (merger).",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8590227/hari-mangrove-sedunia-bni-perkuat-pelestarian-lingkungan-ekonomi-pesisir",
+      "headline": "Hari Mangrove Sedunia, BNI Perkuat Pelestarian Lingkungan &amp; Ekonomi Pesisir",
+      "body": "PT BNI mendukung pelestarian mangrove melalui rehabilitasi ekosistem pesisir, menciptakan peluang ekonomi bagi masyarakat dan memperkuat kesejahteraan lokal.",
+      "sectors": []
+    },
+    {
+      "date": "2026-07-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8589231/jangan-lupa-hari-ini-transmart-full-day-sale-diskon-aneka-produk-50-20",
+      "headline": "Jangan Lupa! Hari Ini Transmart Full Day Sale, Diskon Aneka Produk 50% + 20%",
+      "body": "Transmart Full Day Sale hadir lagi hari ini, Minggu 26 Juli 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-07-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8590317/vietnam-sita-hampir-50-000-sepatu-nike-kw-rp-66-m",
+      "headline": "Vietnam Sita Hampir 50.000 Sepatu Nike KW Rp 66 M",
+      "body": "Kementerian Perindustrian dan Perdagangan Vietnam menyita hampir 50.000 pasang sepatu bermerek Nike yang diduga palsu alias KW.",
+      "sectors": []
+    }
+  ]
 }
