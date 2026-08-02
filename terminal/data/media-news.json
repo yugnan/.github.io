@@ -1,4 +1,60 @@
 {
-  "updated_at": "2026-07-29T01:25:27.337Z",
-  "items": []
+  "updated_at": "2026-08-02T01:31:04.712Z",
+  "items": [
+    {
+      "date": "2026-08-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8600568/bantuan-beras-disalurkan-serentak-17-agustus",
+      "headline": "Bantuan Beras Disalurkan Serentak 17 Agustus!",
+      "body": "Badan Pangan Nasional (Bapanas) resmi menugaskan Perum Bulog untuk penyaluran Cadangan Pangan Pemerintah (CPP) untuk bantuan pangan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-08-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8600510/kata-pengemudi-mobil-angkutan-usai-pakai-b50",
+      "headline": "Kata Pengemudi Mobil Angkutan Usai Pakai B50",
+      "body": "BBM solar dengan campuran 50% minyak sawit atau Biodiesel (B50) sudah berlaku. Penerapan B50 ini juga sempat menuai pertanyaan soal dampak terhadap mesin mobi",
+      "sectors": [
+        "energi",
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/industri/d-8600218/menjawab-tantangan-industri-sawit-berkelanjutan-lewat-ramuan-bibit-super",
+      "headline": "Menjawab Tantangan Industri Sawit Berkelanjutan Lewat Ramuan Bibit Super",
+      "body": "Dalam lima tahun terakhir, konsumsi minyak nabati global tumbuh lebih cepat dari produksi. Riset dan inovasi bibit unggul jadi solusi untuk tantangan ini.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8599524/pesta-diskon-50-20-di-transmart-full-day-sale-jangan-lupa-merapat",
+      "headline": "Pesta Diskon 50% + 20% di Transmart Full Day Sale, Jangan Lupa Merapat!",
+      "body": "Transmart Full Day Sale hadir lagi hari ini, Minggu 2 Agustus 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-08-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8600508/daftar-lengkap-harga-baru-bbm-di-semua-spbu",
+      "headline": "Daftar Lengkap Harga Baru BBM di Semua SPBU",
+      "body": "Pertamina dan beberapa badan usaha swasta menyesuaikan harga jual bahan bakar minyak (BBM) mulai 1 Agustus.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8600499/purbaya-gencarkan-penagihan-pajak-tepis-libatkan-babinsa",
+      "headline": "Purbaya Gencarkan Penagihan Pajak, Tepis Libatkan Babinsa",
+      "body": "Menteri Keuangan Purbaya Yudhi Sadewa akan menggencarkan penagihan pajak, namun dia mengaskan tidak melibatkan Babinsa dalam proses penagihan.",
+      "sectors": []
+    }
+  ]
 }
