@@ -1,4 +1,55 @@
 {
-  "updated_at": "2026-08-23T00:37:02.790Z",
-  "items": []
+  "updated_at": "2026-08-25T00:35:31.709Z",
+  "items": [
+    {
+      "date": "2026-08-24",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8633183/peringatan-keras-prabowo-buat-perusahaan-yang-bakar-hutan",
+      "headline": "Peringatan Keras Prabowo buat Perusahaan yang Bakar Hutan",
+      "body": "Peringatan keras diberikan Presiden Prabowo Subianto kepada para korporasi yang terindikasi membakar hutan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-08-24",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8633181/duduk-perkara-investasi-felda-rugi-rp-10-7-t-hingga-pm-malaysia-surati-prabowo",
+      "headline": "Duduk Perkara Investasi Felda Rugi Rp 10,7 T hingga PM Malaysia Surati Prabowo",
+      "body": "Perdana Menteri (PM) Malaysia Datuk Seri Anwar Ibrahim menyurati Presiden Prabowo Subianto terkait investasi Felda di PT Eagle High Plantations Tbk (EHP).",
+      "sectors": []
+    },
+    {
+      "date": "2026-08-24",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8633304/genjot-produksi-emas-lewat-keterlibatan-tambang-rakyat",
+      "headline": "Genjot Produksi Emas Lewat Keterlibatan Tambang Rakyat",
+      "body": "Tambang rakyat akan digenjot sebagai penghasil dan pemasok emas.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/infrastruktur/d-8633294/kai-poles-stasiun-cikampek-begini-hasilnya",
+      "headline": "KAI Poles Stasiun Cikampek, Begini Hasilnya",
+      "body": "Peningkatan fasilitas pelayanan di Stasiun Cikampek melalui peninggian Peron 2 dan Peron 5 serta penambahan atap overcapping.",
+      "sectors": []
+    },
+    {
+      "date": "2026-08-24",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8633276/platform-ekspor-pt-dsi-diluncurkan-1-september",
+      "headline": "Platform Ekspor PT DSI Diluncurkan 1 September",
+      "body": "PT Danantara Sumberdaya Indonesia (DSI) menargetkan platform tata kelola ekspor sumber daya alam (SDA) diluncurkan pada 1 September 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-08-24",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8633250/negosiasi-tarif-resiprokal-as-ditargetkan-rampung-tahun-ini",
+      "headline": "Negosiasi Tarif Resiprokal AS Ditargetkan Rampung Tahun Ini",
+      "body": "Menteri Koordinator Perekonomian Airlangga Hartarto menyebut kesepakatan tarif resiprokal Indonesia-Amerika Serikat (AS) masih berproses.",
+      "sectors": []
+    }
+  ]
 }
