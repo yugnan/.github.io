@@ -1,4 +1,57 @@
 {
-  "updated_at": "2026-08-30T02:10:23.190Z",
-  "items": []
+  "updated_at": "2026-09-01T02:26:34.862Z",
+  "items": [
+    {
+      "date": "2026-09-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8642873/asii-mau-tambah-saham-auto-sementara-peha-raup-laba-rp-14-97-miliar",
+      "headline": "ASII Mau Tambah Saham AUTO, Sementara PEHA Raup Laba Rp 14,97 Miliar",
+      "body": "ASII siapkan tender AUTO Rp858,39 miliar. PEHA bukukan laba Rp14,97 miliar dan KAQI buka cabang baru di Surabaya di tengah IHSG yang naik tipis.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8642871/tarif-transbandara-blok-m-soetta-naik-jadi-rp-15-000-mulai-hari-ini",
+      "headline": "Tarif Transbandara Blok M-Soetta Naik Jadi Rp 15.000 Mulai Hari Ini",
+      "body": "Tarif layanan TransBandara rute Blok M-Bandara Soekarno Hatta sebesar Rp 15.000 per sekali jalan mulai berlaku hari ini, Selasa 1 September 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8642826/cek-ini-harga-bbm-terbaru-di-semua-spbu-pertamina",
+      "headline": "Cek! Ini Harga BBM Terbaru di Semua SPBU Pertamina",
+      "body": "Bahan bakar minyak (BBM) Pertamina nonsubsidi ada yang naik harga mulai hari ini, Selasa (1/9/2026).",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8642391/dari-seni-tradisional-jadi-cuan-jaran-kepang-temanggung-tembus-pasar-dunia",
+      "headline": "Dari Seni Tradisional Jadi Cuan, Jaran Kepang Temanggung Tembus Pasar Dunia",
+      "body": "Jaran kepang karya Supriwanto di Temanggung tak hanya melestarikan budaya, tetapi juga menjadi produk bernilai ekonomi yang dipasarkan hingga mancanegara.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8642621/penyebab-diskon-50-biaya-layanan-buat-seller-toko-online-belum-berlaku",
+      "headline": "Penyebab Diskon 50% Biaya Layanan buat Seller Toko Online Belum Berlaku",
+      "body": "Diskon 50% biaya layanan untuk penjual (seller) di platform e-commerce belum berlaku. Pelaksanaannya masih menunggu terbitnya Keputusan Menteri (Kepmen) UMKM.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/ekonomi-hijau/d-8642670/anugerah-ekonomi-hijau-kembali-digelar-catat-tanggalnya",
+      "headline": "Anugerah Ekonomi Hijau Kembali Digelar, Catat Tanggalnya!",
+      "body": "detikcom kembali menggelar Anugerah Ekonomi Hijau.",
+      "sectors": []
+    }
+  ]
 }
