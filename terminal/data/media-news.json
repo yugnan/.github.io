@@ -1,4 +1,62 @@
 {
-  "updated_at": "2026-09-07T01:40:27.438Z",
-  "items": []
+  "updated_at": "2026-09-08T01:51:27.065Z",
+  "items": [
+    {
+      "date": "2026-09-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8653192/simak-rekomendasi-saham-saat-ihsg-loyo",
+      "headline": "Simak Rekomendasi Saham saat IHSG Loyo",
+      "body": "IHSG turun 0,25% ke 6.619,67. DMAS catat prapenjualan Rp1,15 T, MPXL siapkan ekspansi batu bara, dan BMRI bagikan dividen interim.",
+      "sectors": [
+        "perbankan",
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8653186/17-perjalanan-krl-dibatalkan-imbas-perawatan-armada-buatan-inka",
+      "headline": "17 Perjalanan KRL Dibatalkan Imbas Perawatan Armada Buatan INKA",
+      "body": "PT INKA melakukan General Check Up terhadap rangkaian KRL yang baru beroperasi sejak akhir Desember 2025 lalu.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8653180/transisi-bisnis-tbs-energi-toba-jadi-saham-hijau-pertama-bei",
+      "headline": "Transisi Bisnis, TBS Energi (TOBA) Jadi Saham Hijau Pertama BEI",
+      "body": "PT TBS Energi Utama Tbk (TOBA) menjadi perusahaan pertama di Indonesia yang memperoleh Penetapan Saham Hijau Transisi (Green Equity Transition).",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8653167/kemenhub-ungkap-biang-kerok-kemacetan-panjang-pelabuhan-ketapang",
+      "headline": "Kemenhub Ungkap Biang Kerok Kemacetan Panjang Pelabuhan Ketapang",
+      "body": "Kepadatan terutama dipengaruhi oleh tingginya volume kendaraan logistik menuju Gilimanuk.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8653139/bandara-soetta-husein-siap-beroperasi-lagi-usai-dibuka",
+      "headline": "Bandara Soetta-Husein Siap Beroperasi Lagi Usai Dibuka",
+      "body": "Bandara Soekarno-Hatta, Bandara Halim Perdanakusuma, dan Bandara Husein Sastranegara telah siap digunakan untuk lepas landas dan mendarat.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8653044/pinjaman-online-warga-ri-makin-banyak-tembus-rp-105-triliun",
+      "headline": "Pinjaman Online Warga RI Makin Banyak, Tembus Rp 105 Triliun",
+      "body": "OJK mencatat total utang masyarakat Indonesia pada layanan Peer to Peer (P2P) Lending atau pinjaman online (pinjol) mencapai Rp 105,63 triliun pada Juli 2026.",
+      "sectors": [
+        "perbankan"
+      ]
+    }
+  ]
 }
