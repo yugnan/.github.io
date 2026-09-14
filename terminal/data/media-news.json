@@ -1,4 +1,57 @@
 {
-  "updated_at": "2026-09-12T01:57:44.678Z",
-  "items": []
+  "updated_at": "2026-09-14T02:08:29.043Z",
+  "items": [
+    {
+      "date": "2026-09-14",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8661594/mglv-bidik-dana-rp-2-54-triliun-lewat-rights-issue-siapkan-proyek-data-center",
+      "headline": "MGLV Bidik Dana Rp 2,54 Triliun Lewat Rights Issue, Siapkan Proyek Data Center",
+      "body": "IHSG melemah 0,73%, sementara TINS perluas ekspor dan RUIS kembangkan geothermal. MGLV siapkan rights issue Rp2,54 triliun untuk proyek data center.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-14",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8661582/sistem-keselamatan-pelayaran-mesti-dievaluasi-total-usai-tragedi-kapal-virgo",
+      "headline": "Sistem Keselamatan Pelayaran Mesti Dievaluasi Total Usai Tragedi Kapal Virgo",
+      "body": "Pemerintah diminta melakukan evaluasi menyeluruh terhadap sistem keselamatan pelayaran.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-14",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8661547/naik-lagi-harga-minyak-tembus-us-107-per-barel",
+      "headline": "Naik Lagi, Harga Minyak Tembus US$ 107 per Barel!",
+      "body": "Harga minyak West Texas Intermediate (WTI) naik 2,8% menjadi US$ 102,87 per barel. Harga minyak Brent juga terkerek 3,1% ke level US$ 107,87 per barel.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8661298/pertamina-pakai-sistem-ganjil-genap-buat-urai-antrean-di-spbu-makassar",
+      "headline": "Pertamina Pakai Sistem Ganjil-Genap buat Urai Antrean di SPBU Makassar",
+      "body": "Pengaturan tersebut dilakukan untuk membantu mengatur antrean kendaraan dan mendukung kelancaran pelayanan masyarakat di lapangan.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8661255/bapanas-minta-masyarakat-lapor-ke-sini-jika-ada-pungli-bansos",
+      "headline": "Bapanas Minta Masyarakat Lapor ke Sini Jika Ada Pungli Bansos",
+      "body": "Bapanas meminta masyarakat dapat menyampaikan pengaduan maupun pertanyaan melalui hotline Bapanas di nomor 0895391606768 atau website ppid.badanpangan.go.id.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-13",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8661260/biang-kerok-harga-cabai-tembus-rp-90-ribu-kg",
+      "headline": "Biang Kerok Harga Cabai Tembus Rp 90 Ribu/Kg",
+      "body": "Harga cabai rawit di tingkat konsumen mengalami kenaikan hingga tembus Rp 90.000 per kilogram.",
+      "sectors": []
+    }
+  ]
 }
