@@ -1,4 +1,55 @@
 {
-  "updated_at": "2026-09-15T02:15:25.122Z",
-  "items": []
+  "updated_at": "2026-09-20T02:08:03.021Z",
+  "items": [
+    {
+      "date": "2026-09-20",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/industri/d-8670430/pesawat-militer-thailand-hingga-korea-servisnya-di-bandung",
+      "headline": "Pesawat Militer Thailand hingga Korea Servisnya di Bandung",
+      "body": "PT Nusantara Turbin dan Propulsi (NTP) mengembangkan bisnis MRO mesin pesawat hingga Asia Pasifik, melayani pelanggan militer di Malaysia, Thailand, dan Korea.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-20",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670425/anak-warren-buffet-jadi-chairman-berkshire-hathaway",
+      "headline": "Anak Warren Buffet Jadi Chairman Berkshire Hathaway",
+      "body": "Warren Buffett secara resmi mengumumkan pengunduran dirinya sebagai Chairman Berkshire Hathaway.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-20",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8669437/hari-ini-transmart-full-day-sale-mesin-cuci-hingga-ac-dan-tv-diskon-gede",
+      "headline": "Hari Ini Transmart Full Day Sale! Mesin Cuci hingga AC dan TV Diskon Gede",
+      "body": "Transmart Full Day Sale hadir hari ini, Minggu 20 September 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-19",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/industri/d-8670423/ptdi-bocorkan-rencana-bikin-ambulans-udara",
+      "headline": "PTDI Bocorkan Rencana Bikin Ambulans Udara",
+      "body": "Pengembangan ambulans terbang tengah dilakukan oleh PT Dirgantara Indonesia (Persero) atau PTDI.",
+      "sectors": []
+    },
+    {
+      "date": "2026-09-19",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8670419/prabowo-mau-ri-bikin-bensin-dari-batu-bara",
+      "headline": "Prabowo Mau RI Bikin Bensin dari Batu Bara",
+      "body": "Kita juga nanti akan bikin juga bensin dari batu bara, kata Prabowo.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670045/trump-perpanjang-aturan-biaya-visa-pekerja-asing-rp-1-75-m-hingga-2027",
+      "headline": "Trump Perpanjang Aturan Biaya Visa Pekerja Asing Rp 1,75 M hingga 2027",
+      "body": "Presiden AS Donald Trump memperpanjang perintah eksekutif terkait pemberian biaya visa non-imigran H-1B selama satu tahun ke depan.",
+      "sectors": []
+    }
+  ]
 }
