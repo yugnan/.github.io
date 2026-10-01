@@ -1,52 +1,58 @@
 {
-  "updated_at": "2026-09-27T02:18:14.432Z",
+  "updated_at": "2026-10-01T02:54:12.910Z",
   "items": [
     {
-      "date": "2026-09-27",
+      "date": "2026-10-01",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/industri/d-8680887/menperin-ungkap-peluang-besar-ri-kembangkan-industri-halal",
-      "headline": "Menperin Ungkap Peluang Besar RI Kembangkan Industri Halal",
-      "body": "Menteri Perindustrian Agus Gumiwang Kartasasmita mengatakan, Indonesia memiliki peluang yang besar untuk mengembangkan industri halal.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8687134/baru-naik-sehari-harga-emas-antam-sudah-jatuh-lagi",
+      "headline": "Baru Naik Sehari, Harga Emas Antam Sudah Jatuh Lagi",
+      "body": "Harga emas Antam turun Rp 14.000 per gram menjadi Rp 2.581.000. Rincian harga emas dari 0,5 gram hingga 1.000 gram juga disajikan.",
       "sectors": []
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-10-01",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8680797/enam-perusahaan-antre-masuk-bursa-dua-punya-aset-di-atas-rp-250-m",
-      "headline": "Enam Perusahaan Antre Masuk Bursa, Dua Punya Aset di Atas Rp 250 M",
-      "body": "Bursa Efek Indonesia (BEI) mencatat enam perusahaan dalam jadwal penawaran saham perdana atau initial public offering (IPO).",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8687090/bank-syariah-perluas-akses-transaksi-digital-begini-caranya",
+      "headline": "Bank Syariah Perluas Akses Transaksi Digital, Begini Caranya",
+      "body": "Bank syariah memperluas layanan perbankan digital bagi nasabah. Hal ini dilakukan untuk memudahkan nasabah dalam melakukan transaksi digital.",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8687086/adhi-karya-lepas-47-saham-tol-jogja-solo-rp-1-76-triliun",
+      "headline": "Adhi Karya Lepas 47% Saham Tol Jogja-Solo Rp 1,76 Triliun",
+      "body": "PT Adhi Karya (Persero) Tbk (ADHI) melepas kepemilikan saham minoritas di PT Jasamarga Jogja Solo (JMJ).",
+      "sectors": [
+        "infrastruktur"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8686816/miris-nasib-seller-tiktok-saldo-ditahan-kemudian-lenyap",
+      "headline": "Miris Nasib Seller TikTok: Saldo Ditahan Kemudian Lenyap",
+      "body": "Sejumlah penjual TikTok Shop mengadukan masalah pencairan saldo kepada Badan Aspirasi Masyarakat (BAM) DPR RI.",
       "sectors": []
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-10-01",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8680795/gencatan-perang-dagang-usai-trump-dan-xi-jinping-tatap-muka",
-      "headline": "Gencatan Perang Dagang Usai Trump dan Xi Jinping Tatap Muka",
-      "body": "Presiden Amerika Serikat (AS) Donald Trump bertatap muka dengan Presiden China Xi Jinping dalam kunjungan kenegaraan ke Washington, 23-25 September 2026.",
-      "sectors": []
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8687046/miti-ekspansi-tambang-silika-dewa-buka-peluang-kontrak-baru-dan-aali-bagi-dividen",
+      "headline": "MITI Ekspansi Tambang Silika, DEWA Buka Peluang Kontrak Baru, dan AALI Bagi Dividen",
+      "body": "IHSG turun 0,83%, MITI kembangkan tambang silika bersama perusahaan China, DEWA siapkan kontrak baru, dan AALI bagikan dividen Rp233 per saham.",
+      "sectors": [
+        "energi"
+      ]
     },
     {
-      "date": "2026-09-27",
+      "date": "2026-10-01",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8679680/hari-ini-serbu-transmart-full-day-sale-pesta-diskon-meriah-50-20",
-      "headline": "Hari Ini Serbu Transmart Full Day Sale! Pesta Diskon Meriah 50% + 20%",
-      "body": "Transmart Full Day Sale hadir lagi hari ini, Minggu 27 September 2026.",
-      "sectors": []
-    },
-    {
-      "date": "2026-09-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8680792/biang-kerok-phk-tembus-53-000-orang-versi-buruh-pengusaha",
-      "headline": "Biang Kerok PHK Tembus 53.000 Orang Versi Buruh &amp; Pengusaha",
-      "body": "Kementerian Ketenagakerjaan mencatat jumlah pekerja yang terkena pemutusan hubungan kerja (PHK) sepanjang Januari-Agustus 2026 mencapai 53 ribu orang.",
-      "sectors": []
-    },
-    {
-      "date": "2026-09-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8680425/kapal-feri-sofifi-tidore-dirawat-lambung-dan-cat-dibersihkan",
-      "headline": "Kapal Feri Sofifi-Tidore Dirawat, Lambung dan Cat Dibersihkan",
-      "body": "KMP Kerapu II menjalani perawatan di Pelabuhan Feri Bastiong, Ternate, untuk menjaga keamanan dan kenyamanan penumpang.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8687013/insentif-dapur-mbg-diubah-dari-rp-6-juta-hari-jadi-rp-2-000-porsi",
+      "headline": "Insentif Dapur MBG Diubah dari Rp 6 Juta/Hari Jadi Rp 2.000/Porsi",
+      "body": "Badan Gizi Nasional (BGN) akan mengubah insentif program Makan Bergizi Gratis (MBG) bagi Satuan Pelayanan Pemenuhan Gizi (SPPG).",
       "sectors": []
     }
   ]
