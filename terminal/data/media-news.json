@@ -1,58 +1,56 @@
 {
-  "updated_at": "2026-10-01T02:54:12.910Z",
+  "updated_at": "2026-10-05T02:49:35.584Z",
   "items": [
     {
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8687134/baru-naik-sehari-harga-emas-antam-sudah-jatuh-lagi",
-      "headline": "Baru Naik Sehari, Harga Emas Antam Sudah Jatuh Lagi",
-      "body": "Harga emas Antam turun Rp 14.000 per gram menjadi Rp 2.581.000. Rincian harga emas dari 0,5 gram hingga 1.000 gram juga disajikan.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8692468/dolar-as-menguat-ke-level-rp-17-900",
+      "headline": "Dolar AS Menguat ke Level Rp 17.900",
+      "body": "Nilai tukar dolar Amerika Serikat (AS) menguat terhadap rupiah pada pembukaan perdagangan pagi ini. Mata uang Paman Sam berada di level Rp 17.900.",
       "sectors": []
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/moneter/d-8687090/bank-syariah-perluas-akses-transaksi-digital-begini-caranya",
-      "headline": "Bank Syariah Perluas Akses Transaksi Digital, Begini Caranya",
-      "body": "Bank syariah memperluas layanan perbankan digital bagi nasabah. Hal ini dilakukan untuk memudahkan nasabah dalam melakukan transaksi digital.",
-      "sectors": [
-        "perbankan"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8687086/adhi-karya-lepas-47-saham-tol-jogja-solo-rp-1-76-triliun",
-      "headline": "Adhi Karya Lepas 47% Saham Tol Jogja-Solo Rp 1,76 Triliun",
-      "body": "PT Adhi Karya (Persero) Tbk (ADHI) melepas kepemilikan saham minoritas di PT Jasamarga Jogja Solo (JMJ).",
-      "sectors": [
-        "infrastruktur"
-      ]
-    },
-    {
-      "date": "2026-10-01",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8686816/miris-nasib-seller-tiktok-saldo-ditahan-kemudian-lenyap",
-      "headline": "Miris Nasib Seller TikTok: Saldo Ditahan Kemudian Lenyap",
-      "body": "Sejumlah penjual TikTok Shop mengadukan masalah pencairan saldo kepada Badan Aspirasi Masyarakat (BAM) DPR RI.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8692464/ihsg-dibuka-menguat-ke-6-057-di-awal-pekan",
+      "headline": "IHSG Dibuka Menguat ke 6.057 di Awal Pekan",
+      "body": "IHSG dibuka menguat di level 6.057,62 dengan kenaikan 0,34%. Volume transaksi mencapai 6,97 miliar saham. Simak pergerakan bursa Asia lainnya.",
       "sectors": []
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8687046/miti-ekspansi-tambang-silika-dewa-buka-peluang-kontrak-baru-dan-aali-bagi-dividen",
-      "headline": "MITI Ekspansi Tambang Silika, DEWA Buka Peluang Kontrak Baru, dan AALI Bagi Dividen",
-      "body": "IHSG turun 0,83%, MITI kembangkan tambang silika bersama perusahaan China, DEWA siapkan kontrak baru, dan AALI bagikan dividen Rp233 per saham.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8692425/ihsg-tertahan-di-level-6-000-cek-rekomendasi-saham-hari-ini",
+      "headline": "IHSG Tertahan di Level 6.000, Cek Rekomendasi Saham Hari Ini",
+      "body": "IHSG menguat 0,46%, sementara KIJA akuisisi kawasan industri 500 hektare, ERAA ekspansi gerai, dan AALI siapkan buyback Rp400 miliar.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-05",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8692410/opec-sepakat-tahan-produksi-minyak",
+      "headline": "OPEC+ Sepakat Tahan Produksi Minyak",
+      "body": "OPEC+ sepakat mempertahankan target produksi minyak untuk November 2026. Keputusan diambil tujuh negara utama OPEC+ dalam pertemuan daring pada Minggu.",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-10-01",
+      "date": "2026-10-05",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8687013/insentif-dapur-mbg-diubah-dari-rp-6-juta-hari-jadi-rp-2-000-porsi",
-      "headline": "Insentif Dapur MBG Diubah dari Rp 6 Juta/Hari Jadi Rp 2.000/Porsi",
-      "body": "Badan Gizi Nasional (BGN) akan mengubah insentif program Makan Bergizi Gratis (MBG) bagi Satuan Pelayanan Pemenuhan Gizi (SPPG).",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8691769/teri-nasi-jepara-tembus-pasar-jepang-dan-singapura-ekspor-capai-8-7-ton",
+      "headline": "Teri Nasi Jepara Tembus Pasar Jepang dan Singapura, Ekspor Capai 8,7 Ton",
+      "body": "Industri teri nasi di Jepara mengekspor 8,7 ton produk ke Jepang dan Singapura. Teri nasi tersebut digunakan sebagai bahan baku olahan makanan.",
+      "sectors": [
+        "consumer goods"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8692162/iran-tak-akan-buka-selat-hormuz-sebelum-as-penuhi-7-syarat",
+      "headline": "Iran Tak Akan Buka Selat Hormuz Sebelum AS Penuhi 7 Syarat",
+      "body": "Iran menegaskan tidak akan membuka Selat Hormuz jika Amerika Serikat (AS) belum memenuhi tujuh syarat yang tercantum dalam perjanjian sementara pada Juni lalu.",
       "sectors": []
     }
   ]
