@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-10-05T02:49:35.584Z",
+  "updated_at": "2026-10-06T03:40:06.856Z",
   "items": [
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8692468/dolar-as-menguat-ke-level-rp-17-900",
-      "headline": "Dolar AS Menguat ke Level Rp 17.900",
-      "body": "Nilai tukar dolar Amerika Serikat (AS) menguat terhadap rupiah pada pembukaan perdagangan pagi ini. Mata uang Paman Sam berada di level Rp 17.900.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8694312/menaker-sebut-ruu-ketenagakerjaan-perkuat-hak-pekerja-hingga-pengusaha",
+      "headline": "Menaker Sebut RUU Ketenagakerjaan Perkuat Hak Pekerja hingga Pengusaha",
+      "body": "Menteri Ketenagakerjaan Yassierli menyatakan RUU Perlindungan Ketenagakerjaan memperkuat hak pekerja dan pengusaha.",
       "sectors": []
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8692464/ihsg-dibuka-menguat-ke-6-057-di-awal-pekan",
-      "headline": "IHSG Dibuka Menguat ke 6.057 di Awal Pekan",
-      "body": "IHSG dibuka menguat di level 6.057,62 dengan kenaikan 0,34%. Volume transaksi mencapai 6,97 miliar saham. Simak pergerakan bursa Asia lainnya.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8694272/harga-emas-antam-hari-ini-jatuh-cukup-dalam",
+      "headline": "Harga Emas Antam Hari Ini Jatuh Cukup Dalam",
+      "body": "Harga emas Antam hari ini turun Rp 10.000 per gram menjadi Rp 2.570.000. Simak rincian harga dari 0,5 gram hingga 1.000 gram.",
       "sectors": []
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8692425/ihsg-tertahan-di-level-6-000-cek-rekomendasi-saham-hari-ini",
-      "headline": "IHSG Tertahan di Level 6.000, Cek Rekomendasi Saham Hari Ini",
-      "body": "IHSG menguat 0,46%, sementara KIJA akuisisi kawasan industri 500 hektare, ERAA ekspansi gerai, dan AALI siapkan buyback Rp400 miliar.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8694267/dolar-as-pagi-ini-rp-17-909",
+      "headline": "Dolar AS Pagi Ini Rp 17.909",
+      "body": "Dolar AS melemah menjadi Rp 17.909 pagi ini, turun 0,04%. Pergerakan mata uang lainnya cenderung stagnan, dengan penguatan terhadap won Korea.",
       "sectors": []
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8692410/opec-sepakat-tahan-produksi-minyak",
-      "headline": "OPEC+ Sepakat Tahan Produksi Minyak",
-      "body": "OPEC+ sepakat mempertahankan target produksi minyak untuk November 2026. Keputusan diambil tujuh negara utama OPEC+ dalam pertemuan daring pada Minggu.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8694225/ihsg-hari-ini-dibuka-menguat-ke-6-130",
+      "headline": "IHSG Hari Ini Dibuka Menguat ke 6.130",
+      "body": "Indeks Harga Saham Gabungan (IHSG) melanjutkan tren penguatan pada perdagangan hari ini, Selasa (6/10). Indeks saham naik ke level 6.100 pagi ini.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8694188/ptba-minta-restu-bahlil-buat-garap-tambang-lewat-anak-usaha",
+      "headline": "PTBA Minta Restu Bahlil buat Garap Tambang Lewat Anak Usaha",
+      "body": "PT Bukit Asam (Persero) Tbk (PTBA) mengajukan persetujuan untuk melakukan produksi melalui anak usaha perseroan.",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8691769/teri-nasi-jepara-tembus-pasar-jepang-dan-singapura-ekspor-capai-8-7-ton",
-      "headline": "Teri Nasi Jepara Tembus Pasar Jepang dan Singapura, Ekspor Capai 8,7 Ton",
-      "body": "Industri teri nasi di Jepara mengekspor 8,7 ton produk ke Jepang dan Singapura. Teri nasi tersebut digunakan sebagai bahan baku olahan makanan.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8694163/asii-bagikan-dividen-rp-3-9-t-tpia-dan-lpkr-kembangkan-bisnis",
+      "headline": "ASII Bagikan Dividen Rp 3,9 T, TPIA dan LPKR Kembangkan Bisnis",
+      "body": "IHSG naik 1,36%, ASII siapkan dividen Rp3,9 triliun, TPIA kembangkan tiga pilar bisnis, dan LPKR perluas proyek hunian Rp1-2 miliar.",
       "sectors": [
-        "consumer goods"
+        "otomotif"
       ]
-    },
-    {
-      "date": "2026-10-05",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8692162/iran-tak-akan-buka-selat-hormuz-sebelum-as-penuhi-7-syarat",
-      "headline": "Iran Tak Akan Buka Selat Hormuz Sebelum AS Penuhi 7 Syarat",
-      "body": "Iran menegaskan tidak akan membuka Selat Hormuz jika Amerika Serikat (AS) belum memenuhi tujuh syarat yang tercantum dalam perjanjian sementara pada Juni lalu.",
-      "sectors": []
     }
   ]
 }
