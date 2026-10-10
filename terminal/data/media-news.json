@@ -1,4 +1,59 @@
 {
-  "updated_at": "2026-10-09T03:28:38.201Z",
-  "items": []
+  "updated_at": "2026-10-10T03:08:14.468Z",
+  "items": [
+    {
+      "date": "2026-10-10",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8699740/bertahan-lebih-dari-dua-dekade-kerupuk-kulit-buatan-jakarta-tembus-pasar-inggris",
+      "headline": "Bertahan Lebih dari Dua Dekade, Kerupuk Kulit Buatan Jakarta Tembus Pasar Inggris",
+      "body": "Rumah produksi Cap Tiga Bintang mengolah 150 kilogram kulit sapi per hari menjadi kerupuk kulit. Usaha sejak 1999 ini memasarkan produknya hingga Inggris.",
+      "sectors": [
+        "properti"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8700388/kopdes-merah-putih-jual-beras-bulog-dipasok-tanpa-batas",
+      "headline": "Kopdes Merah Putih Jual Beras Bulog, Dipasok Tanpa Batas",
+      "body": "Koperasi Desa Merah Putih akan menerima pasokan beras tanpa batas dari Bulog, mendukung program pemerintah untuk akses beras terjangkau bagi masyarakat.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-10",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8700386/rincian-11-proyek-hilirisasi-rp-180-triliun-di-maluku-utara",
+      "headline": "Rincian 11 Proyek Hilirisasi Rp 180 Triliun di Maluku Utara",
+      "body": "Presiden Prabowo Subianto meluncurkan 11 proyek hilirisasi senilai Rp 180 triliun sekaligus melepas ekspor perdana baterai kendaraan listrik.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8700381/efisiensi-jelang-akhir-tahun-perjalanan-dinas-dipangkas-rapat-daring",
+      "headline": "Efisiensi Jelang Akhir Tahun: Perjalanan Dinas Dipangkas-Rapat Daring",
+      "body": "Kementerian Keuangan resmi menerbitkan Surat Menteri Keuangan Nomor S-708/MK.03/2026 yang diterbitkan pada 8 Oktober 2026 tentang efisiensi anggaran.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-09",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8700359/harga-minyak-meroket-ri-siap-siap-kena-imbasnya",
+      "headline": "Harga Minyak Meroket, RI Siap-siap Kena Imbasnya",
+      "body": "Menkeu Suahasil Nazara ungkap dampak kenaikan harga minyak dunia terhadap APBN, subsidi energi melonjak tajam.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8700336/risiko-bisnis-nggak-selalu-terlihat-yuk-pelajari-cara-mengelolanya",
+      "headline": "Risiko Bisnis Nggak Selalu Terlihat, Yuk Pelajari Cara Mengelolanya!",
+      "body": "Pelatihan dan Uji Kompetensi Manajemen Risiko yang diselenggarakan Piranha Smart Center (PSC) bersama Education Visionary Lab bisa menjadi salah satu pilihan.",
+      "sectors": []
+    }
+  ]
 }
