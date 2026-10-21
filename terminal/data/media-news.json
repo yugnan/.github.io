@@ -1,4 +1,55 @@
 {
-  "updated_at": "2026-10-19T02:12:59.411Z",
-  "items": []
+  "updated_at": "2026-10-21T02:21:35.211Z",
+  "items": [
+    {
+      "date": "2026-10-21",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8716666/pertamina-patra-niaga-percepat-pengiriman-bbm-ke-spbu-di-majalengka",
+      "headline": "Pertamina Patra Niaga Percepat Pengiriman BBM ke SPBU di Majalengka",
+      "body": "Pertamina Patra Niaga mempercepat pengiriman BBM ke 29 SPBU di Majalengka untuk menjaga ketersediaan stok. Masyarakat diimbau menggunakan aplikasi MyPertamina.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-21",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8716639/harga-minyak-dunia-turun-ini-pemicunya",
+      "headline": "Harga Minyak Dunia Turun, Ini Pemicunya",
+      "body": "Harga minyak mentah dunia turun pada perdagangan Selasa.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8716631/ihsg-kembali-menguat-cek-rekomendasi-saham-hari-ini",
+      "headline": "IHSG Kembali Menguat, Cek Rekomendasi Saham Hari Ini",
+      "body": "IHSG pada perdagangan Selasa (20/10) ditutup naik 5,65% ke level 5.278,99",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-21",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8716604/eks-mendag-semprot-malaysia-soal-seruan-kucilkan-ri-di-asean-imbas-karhutla",
+      "headline": "Eks Mendag Semprot Malaysia soal Seruan Kucilkan RI di ASEAN Imbas Karhutla",
+      "body": "Mantan Menteri Perdagangan, Muhammad Lutfi merespons pernyataan politikus Malaysia yang menyerukan agar Indonesia dikucilkan dari ASEAN.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-21",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8716460/antrean-panjang-bbm-merembet-ke-jatim-dibereskan-dalam-2-hari",
+      "headline": "Antrean Panjang BBM Merembet ke Jatim, Dibereskan dalam 2 Hari",
+      "body": "Kementerian ESDM menargetkan antrean BBM di Jawa Timur selesai dalam 1-2 hari. Upaya penguatan pasokan dilakukan untuk mencegah antrean panjang.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-20",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8716442/raksasa-keuangan-dunia-prediksi-ratusan-triliun-kabur-jika-bursa-ri-turun-kasta",
+      "headline": "Raksasa Keuangan Dunia Prediksi Ratusan Triliun Kabur Jika Bursa RI Turun Kasta",
+      "body": "Raksasa institusi keuangan dunia memperkirakan pasar modal Indonesia bisa kehilangan aliran dana asing hingga ratusan triliun.",
+      "sectors": []
+    }
+  ]
 }
