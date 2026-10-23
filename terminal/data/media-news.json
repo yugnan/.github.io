@@ -1,55 +1,58 @@
 {
-  "updated_at": "2026-10-22T02:16:32.842Z",
+  "updated_at": "2026-10-23T02:22:25.047Z",
   "items": [
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8718397/harga-minyak-masih-betah-di-atas-us-100-per-barel",
-      "headline": "Harga Minyak Masih Betah di Atas US$ 100 per Barel",
-      "body": "Harga minyak bergerak bervariasi pada Rabu (21/10) karena kekhawatiran akan gangguan pasokan dari Timur Tengah.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8720089/bergerak-dua-arah-ihsg-menguat-ke-level-5-400",
+      "headline": "Bergerak Dua Arah, IHSG Menguat ke Level 5.400",
+      "body": "IHSG bergerak dua arah, menguat ke level 5.400 setelah sempat melemah. Meskipun menguat harian, IHSG masih melemah signifikan secara bulanan dan tahunan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-23",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8719774/danantara-serok-saham-anjlok-imbas-msci-lewat-mitra",
+      "headline": "Danantara Serok Saham Anjlok Imbas MSCI Lewat Mitra",
+      "body": "Badan Pengelola Investasi Daya Anagata Nusantara (BPI Danantara) mulai membeli saham di tengah gejolak pada Indeks Harga Saham Gabungan (IHSG).",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-23",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8720075/ammn-siapkan-buyback-rp-1-t-dan-toba-dapat-suntikan-modal-rp-7-79-t",
+      "headline": "AMMN Siapkan Buyback Rp 1 T, dan TOBA Dapat Suntikan Modal Rp 7,79 T",
+      "body": "IHSG naik 1,12%, AMMN siapkan buyback Rp1 triliun, TOBA kantongi investasi Rp7,79 triliun, dan ASSA dapat kredit Rp500 miliar.",
       "sectors": [
-        "energi"
+        "perbankan"
       ]
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8718338/dmas-bagi-dividen-rp1-4-triliun-ipcc-catat-trafik-kargo-naik-19",
-      "headline": "DMAS Bagi Dividen Rp1,4 Triliun, IPCC Catat Trafik Kargo Naik 19%",
-      "body": "IHSG naik 0,94%, DMAS siapkan dividen Rp1,4 triliun, IPCC catat trafik kargo 1,37 juta unit, dan PGEO bidik kapasitas panas bumi 1,8 GW.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8719751/deretan-saham-para-konglomerat-yang-masuk-daftar-hsc",
+      "headline": "Deretan Saham Para Konglomerat yang Masuk Daftar HSC",
+      "body": "Sejumlah perusahaan konglomerasi masuk kategori High Shareholding Concentration (HSC) atau kepemilikan saham terkonsentrasi tinggi pada satu pihak.",
       "sectors": []
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/infrastruktur/d-8718320/china-tambah-lagi-jalur-kereta-cepat-1-625-km",
-      "headline": "China Tambah Lagi Jalur Kereta Cepat 1.625 Km",
-      "body": "China kembali memperluas jaringan kereta api berkecepatan tinggi atau high-speed railway miliknya.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8720071/danantara-bidik-investasi-rp-500-triliun-dari-sini",
+      "headline": "Danantara Bidik Investasi Rp 500 Triliun dari Sini",
+      "body": "Danantara Indonesia menargetkan investasi US$ 30 miliar melalui New Asia Forum 2026 di Bali.",
       "sectors": []
     },
     {
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8718195/rp-200-triliun-lari-ke-luar-negeri-buat-berobat-kek-kesehatan-disiapkan",
-      "headline": "Rp 200 Triliun Lari ke Luar Negeri buat Berobat, KEK Kesehatan Disiapkan",
-      "body": "Sekitar 2 juta orang Indonesia memilih berobat ke luar negeri, seperti Singapura dan Malaysia dengan total pengeluaran mencapai Rp 200 triliun.",
-      "sectors": []
-    },
-    {
-      "date": "2026-10-22",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/industri/d-8717987/ogah-ketergantungan-impor-ri-bakal-bikin-chip-sendiri",
-      "headline": "Ogah Ketergantungan Impor, RI Bakal Bikin Chip Sendiri",
-      "body": "Mendiktisaintek Brian Yuliarto menyoroti ketertinggalan industri semikonduktor Indonesia dibanding Malaysia, yang didorong oleh kebijakan e-KTP.",
-      "sectors": []
-    },
-    {
-      "date": "2026-10-22",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8718189/dua-menteri-pastikan-gaji-pns-tidak-lewat-kopdes-menkop-buka-suara",
-      "headline": "Dua Menteri Pastikan Gaji PNS Tidak Lewat Kopdes, Menkop Buka Suara",
-      "body": "Menteri Keuangan dan PANRB memastikan gaji PNS tetap dibayar langsung ke rekening, bukan melalui Koperasi Desa.",
-      "sectors": []
+      "sourceUrl": "https://finance.detik.com/moneter/d-8719997/rupiah-tertekan-suku-bunga-bi-diramal-naik-jadi-6-5",
+      "headline": "Rupiah Tertekan, Suku Bunga BI Diramal Naik Jadi 6,5%",
+      "body": "Proyeksi suku bunga acuan Bank Indonesia diperkirakan naik menjadi 6,5% pada 2027 akibat tekanan nilai tukar rupiah dan inflasi.",
+      "sectors": [
+        "perbankan",
+        "consumer goods"
+      ]
     }
   ]
 }
