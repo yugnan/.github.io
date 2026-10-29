@@ -1,54 +1,59 @@
 {
-  "updated_at": "2026-10-28T02:53:17.481Z",
+  "updated_at": "2026-10-29T03:17:18.045Z",
   "items": [
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8727297/harga-emas-antam-lompat-rp-20-ribu-per-gram",
-      "headline": "Harga Emas Antam Lompat Rp 20 Ribu Per Gram",
-      "body": "Harga emas Antam hari ini kembali mengalami kenaikan.",
-      "sectors": []
+      "sourceUrl": "https://finance.detik.com/energi/d-8728952/geopolitik-memanas-pertamina-antisipasi-risiko-pasokan-energi",
+      "headline": "Geopolitik Memanas, Pertamina Antisipasi Risiko Pasokan Energi",
+      "body": "Pertamina Patra Niaga antisipasi risiko pasokan energi dengan penguatan infrastruktur dan operasional.",
+      "sectors": [
+        "energi",
+        "infrastruktur"
+      ]
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8727277/dolar-as-makin-dekat-ke-rp-18-200",
-      "headline": "Dolar AS Makin Dekat ke Rp 18.200",
-      "body": "Dolar Amerika Serikat (AS) melanjutkan penguatan terhadap nilai tukar rupiah di perdagangan hari ini, Rabu (28/10/2026).",
-      "sectors": []
-    },
-    {
-      "date": "2026-10-28",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8727274/ihsg-merah-pagi-ini-turun-1-lebih",
-      "headline": "IHSG Merah Pagi Ini, Turun 1% Lebih",
-      "body": "Indeks Harga Saham Gabungan (IHSG) pagi ini berada di zona merah.",
-      "sectors": []
-    },
-    {
-      "date": "2026-10-28",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8727262/harga-minyak-turun-hampir-2-tapi-masih-di-atas-us-110-per-barel",
-      "headline": "Harga Minyak Turun Hampir 2%, tapi Masih di Atas US$ 110 per Barel",
-      "body": "Harga minyak dunia ditutup turun hampir 2% pada perdagangan Selasa (27/10).",
+      "sourceUrl": "https://finance.detik.com/energi/d-8728943/menlu-singapura-bicara-kontrak-gas-usai-bertemu-prabowo",
+      "headline": "Menlu Singapura Bicara Kontrak Gas Usai Bertemu Prabowo",
+      "body": "Menurut Balakrishnan, kepatuhan terhadap kontrak penting untuk menjaga kredibilitas dan daya saing perekonomian kedua negara.",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8727280/industri-hulu-migas-hadapi-tantangan-jaga-produksi-dorong-investasi",
-      "headline": "Industri Hulu Migas Hadapi Tantangan Jaga Produksi-Dorong Investasi",
-      "body": "Industri hulu migas dihadapkan pada tantangan dalam mempertahankan produktivitas lapangan eksisting dan menarik investasi.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8728934/djp-soal-mekanik-ditagih-pajak-mclaren-rp-137-juta-itu-kewenangan-pemda",
+      "headline": "DJP soal Mekanik Ditagih Pajak McLaren Rp 137 Juta: Itu Kewenangan Pemda",
+      "body": "DJP menjelaskan penagihan pajak mobil McLaren senilai Rp 137,4 juta kepada mekanik yang tidak memilikinya.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8728926/rupiah-menguat-pagi-ini-tapi-masih-di-level-18-100",
+      "headline": "Rupiah Menguat Pagi Ini, tapi Masih di Level 18.100",
+      "body": "Nilai tukar Rupiah menguat terhadap dolar AS, namun masih berada pada level yang cukup tinggi di Rp 18.100.",
       "sectors": []
     },
     {
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8727222/ratu-dan-eral-catat-pertumbuhan-laba-bris-siapkan-buyback-rp-500-miliar",
-      "headline": "RATU dan ERAL Catat Pertumbuhan Laba, BRIS Siapkan Buyback Rp 500 Miliar",
-      "body": "RATU memperluas bisnis lewat akuisisi Blok Madura dan mencatat laba naik 113%. Simak juga kinerja ERAL serta rencana buyback BRIS.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8728910/harga-emas-antam-jatuh-lagi",
+      "headline": "Harga Emas Antam Jatuh Lagi!",
+      "body": "Harga emas Antam hari ini turun Rp 11.000 per gram menjadi Rp 2.559.000. Simak rincian harga emas dari 0,5 gram hingga 1.000 gram.",
+      "sectors": []
+    },
+    {
+      "date": "2026-10-29",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8728904/bri-hadirkan-qlola-mobile-untuk-permudah-transaksi-bisnis",
+      "headline": "BRI Hadirkan Qlola Mobile untuk Permudah Transaksi Bisnis",
+      "body": "BRI luncurkan Qlola Mobile, aplikasi yang memudahkan nasabah memantau keuangan dan menyetujui transaksi secara real-time.",
       "sectors": []
     }
   ]
