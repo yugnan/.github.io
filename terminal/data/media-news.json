@@ -1,4 +1,57 @@
 {
-  "updated_at": "2026-11-01T02:58:54.676Z",
-  "items": []
+  "updated_at": "2026-11-02T03:08:01.106Z",
+  "items": [
+    {
+      "date": "2026-11-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8733949/sulawesi-tenggara-rampungkan-500-gerai-koperasi-merah-putih",
+      "headline": "Sulawesi Tenggara Rampungkan 500 Gerai Koperasi Merah Putih",
+      "body": "Sebanyak 208 gerai Koperasi Merah Putih di Sulawesi Tenggara dinyatakan siap beroperasi. Jumlah tersebut berasal dari 500 gerai yang telah rampung dibangun.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8734270/dolar-as-menguat-ke-level-rp-18-162",
+      "headline": "Dolar AS Menguat ke Level Rp 18.162",
+      "body": "Nilai tukar dolar AS menguat terhadap rupiah, mencapai Rp 18.162. Dolar juga menguat terhadap yen Jepang dan won Korea, namun melemah terhadap franc Swiss.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8734199/ihsg-dibuka-melemah-ke-5-014",
+      "headline": "IHSG Dibuka Melemah ke 5.014",
+      "body": "Indeks Harga Saham Gabungan (IHSG) hari ini dibuka melemah. IHSG masih berada di level 5.000.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8733940/ongkos-angkutan-barang-penyeberangan-disiapkan-lebih-berkelanjutan",
+      "headline": "Ongkos Angkutan Barang Penyeberangan Disiapkan Lebih Berkelanjutan",
+      "body": "Pemerintah berencana mengatur tarif angkutan barang penyeberangan pada 2027. Kebijakan ini diharapkan mendukung keselamatan kendaraan dan iklim usaha.",
+      "sectors": [
+        "otomotif"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8734159/ihsg-melemah-ke-level-5-000-saham-apa-yang-bisa-cuan",
+      "headline": "IHSG Melemah ke Level 5.000, Saham Apa yang Bisa Cuan?",
+      "body": "GOTO lanjutkan tren laba, WIFI catat pertumbuhan pendapatan 192%, sementara PTPS siapkan dividen interim Rp2 per saham.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8734149/harga-minyak-dunia-turun-usai-iran-qatar-berunding",
+      "headline": "Harga Minyak Dunia Turun Usai Iran-Qatar Berunding",
+      "body": "Harga minyak mentah dunia turun lebih dari 1% pada perdagangan Senin (2/11) pagi setelah para pejabat Iran dan Qatar berunding selama tiga hari berturut-turut.",
+      "sectors": [
+        "energi"
+      ]
+    }
+  ]
 }
