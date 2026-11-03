@@ -1,57 +1,109 @@
 {
-  "updated_at": "2026-11-02T03:08:01.106Z",
+  "updated_at": "2026-11-03T04:24:52.229Z",
   "items": [
     {
-      "date": "2026-11-02",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8733949/sulawesi-tenggara-rampungkan-500-gerai-koperasi-merah-putih",
-      "headline": "Sulawesi Tenggara Rampungkan 500 Gerai Koperasi Merah Putih",
-      "body": "Sebanyak 208 gerai Koperasi Merah Putih di Sulawesi Tenggara dinyatakan siap beroperasi. Jumlah tersebut berasal dari 500 gerai yang telah rampung dibangun.",
+      "date": "2026-11-03",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261103093356-8-781790/video-djp-pajak-digital-bukan-pajak-baru",
+      "headline": "Video: DJP: Pajak Digital Bukan Pajak Baru",
+      "body": "DJP: Pajak Digital Bukan Pajak Baru",
       "sectors": []
     },
     {
-      "date": "2026-11-02",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8734270/dolar-as-menguat-ke-level-rp-18-162",
-      "headline": "Dolar AS Menguat ke Level Rp 18.162",
-      "body": "Nilai tukar dolar AS menguat terhadap rupiah, mencapai Rp 18.162. Dolar juga menguat terhadap yen Jepang dan won Korea, namun melemah terhadap franc Swiss.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-02",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8734199/ihsg-dibuka-melemah-ke-5-014",
-      "headline": "IHSG Dibuka Melemah ke 5.014",
-      "body": "Indeks Harga Saham Gabungan (IHSG) hari ini dibuka melemah. IHSG masih berada di level 5.000.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-02",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8733940/ongkos-angkutan-barang-penyeberangan-disiapkan-lebih-berkelanjutan",
-      "headline": "Ongkos Angkutan Barang Penyeberangan Disiapkan Lebih Berkelanjutan",
-      "body": "Pemerintah berencana mengatur tarif angkutan barang penyeberangan pada 2027. Kebijakan ini diharapkan mendukung keselamatan kendaraan dan iklim usaha.",
+      "date": "2026-11-03",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/entrepreneur/20261102101920-25-781429/ri-panggil-ekonom-jerman-untuk-benahi-inflasi-utang-ini-sosoknya",
+      "headline": "RI Panggil Ekonom Jerman untuk Benahi Inflasi dan Utang, Ini Sosoknya!",
+      "body": "Indonesia memanggil seorang tokoh kontroversial yang dekat dengan kekuasaan otoriter untuk menjadi penasihat ekonomi pemerintah.",
       "sectors": [
-        "otomotif"
+        "consumer goods"
       ]
     },
     {
-      "date": "2026-11-02",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8734159/ihsg-melemah-ke-level-5-000-saham-apa-yang-bisa-cuan",
-      "headline": "IHSG Melemah ke Level 5.000, Saham Apa yang Bisa Cuan?",
-      "body": "GOTO lanjutkan tren laba, WIFI catat pertumbuhan pendapatan 192%, sementara PTPS siapkan dividen interim Rp2 per saham.",
+      "date": "2026-11-03",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261103092412-34-781779/cek-kondisi-sekolah-rusak-wapres-gibran-minta-maaf-ke-siswa",
+      "headline": "Cek Kondisi Sekolah Rusak, Wapres Gibran Minta Maaf ke Siswa",
+      "body": "Wakil Presiden Gibran Rakabuming meninjau SMA Negeri 1 Mamasa dan SD Negeri Samak di Desa Bebanga, Sulawesi Barat.",
       "sectors": []
     },
     {
-      "date": "2026-11-02",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8734149/harga-minyak-dunia-turun-usai-iran-qatar-berunding",
-      "headline": "Harga Minyak Dunia Turun Usai Iran-Qatar Berunding",
-      "body": "Harga minyak mentah dunia turun lebih dari 1% pada perdagangan Senin (2/11) pagi setelah para pejabat Iran dan Qatar berunding selama tiga hari berturut-turut.",
+      "date": "2026-11-03",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261103093203-8-781787/video-manufaktur-as-menguat-tekanan-inflasi-masih-tinggi",
+      "headline": "Video: Manufaktur AS Menguat, Tekanan Inflasi Masih Tinggi",
+      "body": "Manufaktur AS Menguat, Tekanan Inflasi Masih Tinggi",
+      "sectors": [
+        "consumer goods"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261103100621-4-781801/produksi-nikel-ri-masih-jor-joran-dunia-banjir-pasokan-harga-jatuh",
+      "headline": "Produksi Nikel RI Masih Jor-Joran, Dunia Banjir Pasokan-Harga Jatuh!",
+      "body": "Menko Hilirisasi dan Transisi Energi Bahlil Lahadalia mengungkapkan Indonesia masih jor-joran atas produksi nikel di dalam negeri",
       "sectors": [
         "energi"
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261103110410-17-781820/breaking-ihsg-turun-2-ini-penyebabnya",
+      "headline": "Breaking! IHSG Turun 2%, Ini Penyebabnya",
+      "body": "IHSG tertekan di sesi I, turun 102,40 poin ke 4.994,43. Sentimen pasar dipengaruhi pemilu AS dan harga minyak yang anjlok. Rapat KSSK jadi sorotan.",
+      "sectors": [
+        "energi"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8735933/ylki-desak-pembalut-bebas-ppn-sebut-pemerintah-jangan-miskin-ide",
+      "headline": "YLKI Desak Pembalut Bebas PPN, Sebut Pemerintah Jangan Miskin Ide",
+      "body": "YLKI mendesak pemerintah hapus PPN atas pembalut wanita, menilai produk ini kebutuhan dasar. Kebijakan pajak harus adil dan tidak membebani perempuan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8735251/samsat-jakarta-mulai-ramai-warga-manfaatkan-penghapusan-denda-pajak",
+      "headline": "Samsat Jakarta Mulai Ramai, Warga Manfaatkan Penghapusan Denda Pajak",
+      "body": "Pemprov DKI Jakarta membebaskan sanksi administratif PKB dan BBNKB mulai 2 November hingga 31 Desember 2026. Warga mulai memanfaatkan program tersebut.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8735903/saham-rans-rontok-ke-level-rp-96-jauh-dari-harga-ipo",
+      "headline": "Saham RANS Rontok ke Level Rp 96, Jauh dari Harga IPO",
+      "body": "Saat ini harga perseroan bergerak melemah di bawah Rp 100 per saham.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8735844/sun-life-syariah-resmi-jadi-entitas-sendiri",
+      "headline": "Sun Life Syariah Resmi Jadi Entitas Sendiri",
+      "body": "PT Sun Life Financial Indonesia resmi memisahkan unit usaha syariah (spin-off) menjadi entitas mandiri dengan nama PT Sun Life Financial Syariah Indonesia.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8735826/harga-emas-antam-naik-rp-10-000-gram",
+      "headline": "Harga Emas Antam Naik Rp 10.000/Gram!",
+      "body": "Harga emas Antam hari ini naik Rp 10.000 per gram menjadi Rp 2.541.000. Rincian harga dari 0,5 gram hingga 1.000 gram juga tersedia.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8735779/dolar-as-menguat-ke-rp-18-160",
+      "headline": "Dolar AS Menguat ke Rp 18.160",
+      "body": "Nilai tukar dolar Amerika Serikat (AS) menguat terhadap rupiah di perdagangan hari ini, Selasa (3/11). Mata uang Paman Sam bergerak di level Rp 18.100.",
+      "sectors": []
     }
   ]
 }
