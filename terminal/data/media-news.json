@@ -1,109 +1,59 @@
 {
-  "updated_at": "2026-11-04T03:43:19.569Z",
+  "updated_at": "2026-11-05T04:01:53.192Z",
   "items": [
     {
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261103150307-128-781933/lengkap-ini-rapor-kinerja-emiten-ri-kuartal-iii-324-perusahaan-buruk",
-      "headline": "Lengkap! Ini Rapor Kinerja Emiten RI Kuartal III: 324 Perusahaan Buruk",
-      "body": "Laba 796 emiten meningkat 14,37% YoY hingga Rp466,15 triliun pada Q3 2026",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261104092405-8-782132/video-33-orang-tewas-rusia-jatuhkan-sembilan-bom-di-ukraina",
-      "headline": "Video: 33 Orang Tewas, Rusia Jatuhkan Sembilan Bom di Ukraina",
-      "body": "33 Orang Tewas, Rusia Jatuhkan Sembilan Bom di Ukraina",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261104090910-17-782127/diam-diam-saham-tmpo-sudah-meroket-7561-sebulan-ini-penguasanya",
-      "headline": "Diam-Diam, Saham TMPO Sudah Meroket 75,61% Sebulan, Ini Penguasanya",
-      "body": "Saham PT Tempo Inti Media Tbk (TMPO) melesat kencang di tengah mayoritas efek di Indeks Harga Saham Gabungan (IHSG) berguguran.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261104102440-17-782156/bursa-ri-masih-dilirik-ojk-catat-25-perusahaan-antre-ipo",
-      "headline": "Bursa RI Masih Dilirik, OJK Catat 25 Perusahaan Antre IPO",
-      "body": "OJK mengungkapkan minat perusahaan untuk IPO di pasar modal Indonesia tetap tinggi, dengan 25 rencana penawaran umum dan pertumbuhan investor yang signifikan.",
-      "sectors": [
-        "perbankan"
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261104081346-34-782107/potret-fans-cd-tenerife-berduka-usai-jesus-de-miguel-meninggal-dunia",
-      "headline": "Potret Fans CD Tenerife Berduka usai Jesus de Miguel Meninggal Dunia",
-      "body": "CD Tenerife diliputi duka mendalam setelah penyerang Jesus de Miguel meninggal dunia.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261104101823-37-782155/karyawan-terancam-dipenjara-usai-sadap-ucapan-bos-saat-rapat",
-      "headline": "Karyawan Terancam Dipenjara Usai Sadap Ucapan Bos Saat Rapat",
-      "body": "OpenAI disadap oleh engineer Abdulrahman Alfozan. FBI menyelidiki perangkat perekam yang ditemukan, Alfozan terancam hukuman penjara hingga lima tahun.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/industri/d-8737584/ri-eksportir-pulp-terbesar-keempat-dunia-menperin-dorong-hilirisasi",
-      "headline": "RI Eksportir Pulp Terbesar Keempat Dunia, Menperin Dorong Hilirisasi",
-      "body": "Menteri Perindustrian Muhammad Sarmuji mendorong perbaikan sistem pengumpulan kertas bekas di dalam negeri, termasuk melalui optimalisasi bank sampah.",
-      "sectors": [
-        "perbankan"
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8737572/bahlil-mau-bangun-penampungan-minyak-di-sumatera-bisa-buat-stok-60-hari",
-      "headline": "Bahlil Mau Bangun Penampungan Minyak di Sumatera, Bisa buat Stok 60 Hari",
-      "body": "Rencana ini dibahas dalam rapat terbatas bersama Presiden Prabowo Subianto di Istana Merdeka, Jakarta, Selasa (3/11/2026).",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105105159-4-782537/anggota-dpr-dukung-target-cadangan-minyak-60-hari-ini-alasannya",
+      "headline": "Anggota DPR Dukung Target Cadangan Minyak 60 Hari, Ini Alasannya",
+      "body": "Bambang Patijaya mendukung target pemerintah untuk meningkatkan kapasitas penyimpanan minyak nasional demi ketahanan energi.",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-11-04",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8737561/suahasil-kemenkeu-tak-akan-masuk-sebagai-pemilik-saham-bei",
-      "headline": "Suahasil: Kemenkeu Tak akan Masuk Sebagai Pemilik Saham BEI",
-      "body": "Menteri Keuangan (Menkeu), Suahasil Nazara, menegaskan pihaknya tidak akan menjadi pemegang saham Bursa Efek Indonesia (BEI).",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8737531/harga-cabai-rawit-merah-tembus-rp-90-000-kg",
-      "headline": "Harga Cabai Rawit Merah Tembus Rp 90.000/Kg",
-      "body": "Harga sejumlah komoditas pangan bervariasi hari ini. Namun, komoditas cabai masih dijual dengan harga tinggi, bahkan mencapai Rp 90.000 per kilogram (kg).",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-04",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/moneter/d-8737516/bri-sediakan-layanan-perbankan-praktis-di-titik-transit-dukuh-atas",
-      "headline": "BRI Sediakan Layanan Perbankan Praktis di Titik Transit Dukuh Atas",
-      "body": "BRI luncurkan Galeri E-Channel di JPM Dukuh Atas, memudahkan komuter mengakses layanan perbankan seperti tarik tunai, pembukaan rekening, dan pengajuan kredit.",
+      "date": "2026-11-05",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261105095315-17-782517/kb-bank--bbkp--resmi-lego-85-saham-anak-usaha-kantongi-rp33997-m",
+      "headline": "KB Bank (BBKP) Resmi Lego 85% Saham Anak Usaha, Kantongi Rp339,97 M",
+      "body": "PT Bank KB Indonesia (BBKP) melakukan divestasi 85% saham KB Bukopin Finance ke JB Woori Capital senilai Rp339,97 miliar.",
       "sectors": [
         "perbankan"
       ]
     },
     {
-      "date": "2026-11-04",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8737476/harga-emas-antam-hari-ini-turun-tipis",
-      "headline": "Harga Emas Antam Hari Ini Turun Tipis",
-      "body": "Harga emas Antam hari ini turun Rp 4.000 per gram menjadi Rp 2.537.000. Simak rincian harga emas dari 0,5 gram hingga 1.000 gram.",
+      "date": "2026-11-05",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/entrepreneur/20261105085727-25-782486/pelaku-makar-dihukum-mati-di-jakarta-eksekusinya-sangat-sadis",
+      "headline": "Pelaku Makar Dihukum Mati di Jakarta, Eksekusinya Sangat Sadis",
+      "body": "Pelaku makar terhadap pemerintah harus menerima hukuman yang sangat kejam. Dia harus dihukum mati dengan sangat keji.",
       "sectors": []
+    },
+    {
+      "date": "2026-11-05",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261105095206-128-782516/kripto-pesta-pora-rayakan-kekalahan-trump-bitcoin-terbang-ke-bulan",
+      "headline": "Kripto Pesta Pora Rayakan Kekalahan Trump, Bitcoin Terbang ke Bulan",
+      "body": "Pasar kripto pulih setelah tekanan dari peretasan Binance dan pemilu AS. Bitcoin naik 5,26% ke US$80.567,59",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-05",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105094740-4-782513/tetangga-dekat-ri-siaga-gempa-dahsyat-m-85-tsunami",
+      "headline": "Tetangga Dekat RI Siaga Gempa Dahsyat M 8,5 dan Tsunami",
+      "body": "Filipina akan menguji kesiapsiagaan bencana gempa M8,5 dan tsunami melalui simulasi besar di Cagayan. Latihan ini melibatkan pemerintah dan masyarakat.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-05",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105093559-4-782501/ogah-harga-nikel-ri-dijual-murah-siap-siap-bahlil-tekan-produksi",
+      "headline": "Ogah Harga Nikel RI Dijual Murah, Siap-Siap Bahlil Tekan Produksi!",
+      "body": "Menko Hilirisasi dan Transisi Energi Bahlil Lahadalia akan menekan produksi nikel dalam RKAB",
+      "sectors": [
+        "energi"
+      ]
     }
   ]
 }
