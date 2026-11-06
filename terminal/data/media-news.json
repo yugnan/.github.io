@@ -1,59 +1,105 @@
 {
-  "updated_at": "2026-11-05T04:01:53.192Z",
+  "updated_at": "2026-11-06T03:59:17.944Z",
   "items": [
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105105159-4-782537/anggota-dpr-dukung-target-cadangan-minyak-60-hari-ini-alasannya",
-      "headline": "Anggota DPR Dukung Target Cadangan Minyak 60 Hari, Ini Alasannya",
-      "body": "Bambang Patijaya mendukung target pemerintah untuk meningkatkan kapasitas penyimpanan minyak nasional demi ketahanan energi.",
-      "sectors": [
-        "energi"
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261105095315-17-782517/kb-bank--bbkp--resmi-lego-85-saham-anak-usaha-kantongi-rp33997-m",
-      "headline": "KB Bank (BBKP) Resmi Lego 85% Saham Anak Usaha, Kantongi Rp339,97 M",
-      "body": "PT Bank KB Indonesia (BBKP) melakukan divestasi 85% saham KB Bukopin Finance ke JB Woori Capital senilai Rp339,97 miliar.",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261105170147-128-782713/daftar-terbaru-bunga-deposito-bank-digital-per-6-november-2026",
+      "headline": "Daftar Terbaru Bunga Deposito Bank Digital per 6 November 2026",
+      "body": "Bank digital menawarkan bunga deposito bervariasi hingga 8% per tahun",
       "sectors": [
         "perbankan"
       ]
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/entrepreneur/20261105085727-25-782486/pelaku-makar-dihukum-mati-di-jakarta-eksekusinya-sangat-sadis",
-      "headline": "Pelaku Makar Dihukum Mati di Jakarta, Eksekusinya Sangat Sadis",
-      "body": "Pelaku makar terhadap pemerintah harus menerima hukuman yang sangat kejam. Dia harus dihukum mati dengan sangat keji.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261106085126-8-782834/video-respons-rusia-usai-trump-partai-republik-kalah-pemilu-sela-as",
+      "headline": "Video: Respons Rusia Usai Trump dan Partai Republik Kalah Pemilu Sela AS",
+      "body": "Pemerintah Rusia akhirnya buka suara setelah Partai Republik pimpinan Trump kehilangan kendali atas Senat dan DPR Amerika Serikat.",
       "sectors": []
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261105095206-128-782516/kripto-pesta-pora-rayakan-kekalahan-trump-bitcoin-terbang-ke-bulan",
-      "headline": "Kripto Pesta Pora Rayakan Kekalahan Trump, Bitcoin Terbang ke Bulan",
-      "body": "Pasar kripto pulih setelah tekanan dari peretasan Binance dan pemilu AS. Bitcoin naik 5,26% ke US$80.567,59",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-05",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105094740-4-782513/tetangga-dekat-ri-siaga-gempa-dahsyat-m-85-tsunami",
-      "headline": "Tetangga Dekat RI Siaga Gempa Dahsyat M 8,5 dan Tsunami",
-      "body": "Filipina akan menguji kesiapsiagaan bencana gempa M8,5 dan tsunami melalui simulasi besar di Cagayan. Latihan ini melibatkan pemerintah dan masyarakat.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-05",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105093559-4-782501/ogah-harga-nikel-ri-dijual-murah-siap-siap-bahlil-tekan-produksi",
-      "headline": "Ogah Harga Nikel RI Dijual Murah, Siap-Siap Bahlil Tekan Produksi!",
-      "body": "Menko Hilirisasi dan Transisi Energi Bahlil Lahadalia akan menekan produksi nikel dalam RKAB",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261106094321-4-782873/753-juta-pekerja-komuter-ri-90-naik-kendaraan-pribadi-di-2026",
+      "headline": "7,53 Juta Pekerja Komuter RI 90% Naik Kendaraan Pribadi di 2026",
+      "body": "Pekerja komuter di Indonesia mayoritas masih menggunakan kendaraan pribadi atau kendaraan dinas",
       "sectors": [
-        "energi"
+        "otomotif"
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261106102301-19-782884/video-pdb-ri-tumbuh-545-jauh-di-atas-ekspektasi-pasar-komentar-ini",
+      "headline": "Video: PDB RI Tumbuh 5,45% Jauh di Atas Ekspektasi, Pasar Komentar Ini",
+      "body": "PDB RI Tumbuh 5,45% Jauh di Atas Ekspektasi, Pelaku Pasar Bilang Begini",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261106093656-4-782872/satgas-pkh-buru-lahan-ilegal-yang-dikuasai-raja-nikel-ak",
+      "headline": "Satgas PKH Buru Lahan Ilegal yang Dikuasai 'Raja Nikel' AK",
+      "body": "Satgas PKH kuasai lahan hutan ilegal yang dikuasai 'Raja Nikel' Arif Kurniawan",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261106103720-4-782894/prabowo-bangun-trem-dari-bandara-ngurah-rai-ke-canggu-ini-bocorannya",
+      "headline": "Prabowo Bangun Trem dari Bandara Ngurah Rai ke Canggu, Ini Bocorannya",
+      "body": "Presiden Prabowo akan membangun trem di Bali dari Bandara Ngurah Rai ke Canggu. Ini bocorannya.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740867/bsu-rp-900-ribu-mulai-cair-bulan-ini-cek-syarat-penerimanya",
+      "headline": "BSU Rp 900 Ribu Mulai Cair Bulan Ini, Cek Syarat Penerimanya",
+      "body": "Kementerian Ketenagakerjaan (Kemnaker) menetapkan ketentuan penyaluran Bantuan Subsidi Upah (BSU) 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740797/utang-pemerintah-terbaru-tembus-rp-10-326-t-setara-40-30-pdb",
+      "headline": "Utang Pemerintah Terbaru Tembus Rp 10.326 T, Setara 40,30% PDB",
+      "body": "Utang pemerintah Indonesia per September 2026 mencapai Rp 10.326,93 triliun, setara 40,30% PDB. Mayoritas utang berupa surat berharga negara (SBN).",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740178/kisah-2-umkm-surabaya-perluas-pasar-tingkatkan-omzet-lewat-fitur-digital",
+      "headline": "Kisah 2 UMKM Surabaya Perluas Pasar-Tingkatkan Omzet Lewat Fitur Digital",
+      "body": "Dua UMKM Surabaya, Makaroni SOS dan Trendy Spring Bed, sukses beradaptasi dengan teknologi digital untuk mengatasi tantangan bisnis dan meningkatkan penjualan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740761/harga-emas-antam-hari-ini-masih-rp-2-5-jutaan",
+      "headline": "Harga Emas Antam Hari Ini Masih Rp 2,5 Jutaan",
+      "body": "Harga emas Antam hari ini naik Rp 8.000 per gram menjadi Rp 2.565.000. Rincian harga untuk berbagai ukuran juga tersedia. Simak informasi lengkapnya!",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8740729/27-penerbangan-di-eropa-diteror-ancaman-bom-palsu",
+      "headline": "27 Penerbangan di Eropa Diteror Ancaman Bom Palsu",
+      "body": "Sebanyak 27 penerbangan di Eropa terganggu akibat serangkaian ancaman bom yang diduga palsu pada Kamis (5/11).",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8740715/dolar-as-masih-betah-di-rp-18-000",
+      "headline": "Dolar AS Masih Betah di Rp 18.000",
+      "body": "Dolar AS Masih Betah di Rp 18.000",
+      "sectors": []
     }
   ]
 }
