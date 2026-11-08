@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-07T03:35:27.121Z",
+  "updated_at": "2026-11-08T03:05:50.785Z",
   "items": [
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/entrepreneur/20261107075523-25-783145/kapal-rumah-sakit-tenggelam-dalam-hitungan-menit-10000-pasien-tewas",
-      "headline": "Kapal Rumah Sakit Tenggelam Dalam Hitungan Menit, 10.000 Pasien Tewas",
-      "body": "Kapal rumah sakit yang mengangkut pasien terluka tenggelam. Total, 10.000 orang tewas.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105160745-8-782686/video-ekonomi-ri-tumbuh-547-daya-beli-kelas-menengah-sudah-pulih",
+      "headline": "Video: Ekonomi RI Tumbuh 5.47%, Daya Beli Kelas Menengah Sudah Pulih?",
+      "body": "Ekonomi RI Tumbuh 5.47%, Nasib daya Beli Kelas Menengah Sudah Pulih?",
       "sectors": [
-        "properti"
+        "consumer goods"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261107222401-33-783224/keseringan-makan-ampela-ayam-ini-yang-terjadi-pada-manusia",
+      "headline": "Keseringan Makan Ampela Ayam, Ini yang Terjadi Pada Manusia",
+      "body": "Ampela ayam sebagai lauk bergizi tinggi kaya protein dan mineral. Tapi bagaimana jadinya kalau kebanyakan makan ampela?",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261104172937-4-782362/pulang-dari-pasar-tanah-abang-jadi-pengusaha-fashion-begini-caranya",
+      "headline": "Pulang dari Pasar Tanah Abang Jadi Pengusaha Fashion, Begini Caranya",
+      "body": "Calon pengusaha fashion bisa mulai membuka bisnis di Tanah Abang dengan cara begini.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261108090247-4-783258/kejutan-trump-tawari-bos-ufc-jadi-pejabat-penting-gedung-putih",
+      "headline": "Kejutan! Trump Tawari Bos UFC Jadi Pejabat Penting Gedung Putih",
+      "body": "Presiden Trump merombak jajaran Gedung Putih setelah kekalahan pemilu paruh waktu dan meminta bos UFC ini jadi pejabat penting Gedung Putih..",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261108062038-17-783240/dirut-bank-di-malang-maling-emas-bikin-kredit-palsu-puluhan-miliar",
+      "headline": "Dirut Bank di Malang Maling Emas-Bikin Kredit Palsu Puluhan Miliar",
+      "body": "OJK ungkap dugaan tindak pidana perbankan oleh petinggi PT BPR DCN, melibatkan kredit fiktif Rp15,6 miliar dan pengambilan agunan emas.",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261029084214-8-780437/video-perkuat-koperasi-hortikultura-atasi-masalah-harga--distribusi",
+      "headline": "Video: Perkuat Koperasi Hortikultura Atasi Masalah Harga - Distribusi",
+      "body": "Kementan Siapkan Koperasi Hortikultura Atasi Masalah Harga - Distribusi Petani Buah dan Sayur",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8743262/72-336-orang-jadi-korban-phk",
+      "headline": "72.336 Orang Jadi Korban PHK!",
+      "body": "Sebanyak 72.336 tenaga kerja melaporkan pemutusan hubungan kerja (PHK) sepanjang Januari-Oktober 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8743193/rincian-emiten-didepak-bursa-dan-saham-kategori-hsc",
+      "headline": "Rincian Emiten Didepak Bursa dan Saham Kategori HSC",
+      "body": "Bursa Efek Indonesia (BEI) akan menghapus pencatatan saham (delisting) 18 emiten pada 10 November 2026. BEI juga mencatat ada 83 saham masuk kategori HSC.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8743192/daftar-saham-calon-delisting-yang-investornya-masih-nyangkut",
+      "headline": "Daftar Saham Calon Delisting yang Investornya Masih Nyangkut",
+      "body": "Bursa Efek Indonesia (BEI) akan menghapus pencatatan saham (delisting) 18 emiten pada 10 November 2026. Namun, masih ada investor nyangkut di sejumlah saham",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-08",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8742033/jangan-lupa-serbu-transmart-full-day-sale-aneka-barang-elektronik-banting-harga",
+      "headline": "Jangan Lupa Serbu Transmart Full Day Sale! Aneka Barang Elektronik Banting Harga",
+      "body": "Transmart Full Day Sale hadir hari ini, Minggu 8 November 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-07",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8743188/dosa-tujuh-emiten-hingga-akhirnya-dihukum-ojk",
+      "headline": "'Dosa' Tujuh Emiten hingga Akhirnya Dihukum OJK",
+      "body": "Dalam pengumuman terbaru OJK, terdapat tujuh emiten yang masuk dalam daftar pihak yang dikenai sanksi.",
+      "sectors": [
+        "perbankan"
       ]
     },
     {
       "date": "2026-11-07",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261107083511-37-783147/awas-perangkat-asing-di-akun-google-ini-cara-cek-blokir-langsung",
-      "headline": "Awas Perangkat Asing di Akun Google, Ini Cara Cek dan Blokir Langsung",
-      "body": "Pastikan keamanan akun Google Anda dengan memeriksa perangkat terhubung dan mengaktifkan verifikasi dua langkah.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261106130153-8-782970/video-wamenko-drajad-pemerintah-genjot-pajak-tanpa-membebani-rakyat",
-      "headline": "Video: Wamenko Drajad: Pemerintah Genjot Pajak Tanpa Membebani Rakyat",
-      "body": "Perkuat APBN Untuk MBG-Kopdes, Pemerintah Genjot Pajak Tanpa Membebani Rakyat",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261107074758-128-783144/adu-kencang-ekonomi-asean-vietnam-melejit-sendirian-ri-nomor-berapa",
-      "headline": "Adu Kencang Ekonomi ASEAN: Vietnam Melejit Sendirian, RI Nomor Berapa?",
-      "body": "Persaingan ekonomi di kawasan Asia Tenggara semakin menarik",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261107042351-128-783136/asia-dipukul-dolar-as-yen-jepang-yuan-china-ambruk-rupiah-perkasa",
-      "headline": "Asia 'Dipukul' Dolar AS: Yen Jepang -Yuan China Ambruk, Rupiah Perkasa",
-      "body": "Mayoritas mata uang Asia melemah terhadap dolar AS pekan ini. Dolar Taiwan mengalami penurunan terbesar. Namun, won Korea dan peso Filipina mencatat penguatan.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261107080000-37-783146/dunia-diramal-kiamat-13-november-manusia-bakal-musnah-mati-terimpit",
-      "headline": "Dunia Diramal Kiamat 13 November, Manusia Bakal Musnah-Mati Terimpit?",
-      "body": "Proyeksi kiamat pada 2026 menarik perhatian publik dan ilmiah. Artikel ini membahas pertumbuhan populasi dan potensi kolaborasi untuk mencegah bencana.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8741174/produksi-kerupuk-ikan-jadi-penggerak-usaha-warga-indramayu",
-      "headline": "Produksi Kerupuk Ikan Jadi Penggerak Usaha Warga Indramayu",
-      "body": "Pekerja menjemur kerupuk ikan di Indramayu, Jawa Barat. Pemerintah mendorong KUR untuk memperkuat produksi UMKM.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8743186/syarat-bsu-upah-maksimal-rp-3-5-juta-bulan-daerah-umk-lebih-tinggi-gimana",
+      "headline": "Syarat BSU Upah Maksimal Rp 3,5 Juta/Bulan, Daerah UMK Lebih Tinggi Gimana?",
+      "body": "Kementerian Ketenagakerjaan (Kemnaker) menjelaskan persyaratan yang harus dipenuhi pekerja atau buruh untuk mendapatkan Bantuan Subsidi Upah (BSU) 2026.",
       "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8739920/dpd-ri-awards-2026-kontribusi-desa-untuk-kemandirian-pangan-nasional",
-      "headline": "DPD RI Awards 2026, Kontribusi Desa untuk Kemandirian Pangan Nasional",
-      "body": "Kondisi iklim dan geopolitik dorong Indonesia fokus pada ketahanan pangan. DPD RI Awards 2026 apresiasi local heroes yang berkontribusi dalam kemandirian pangan",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/infrastruktur/d-8742030/batal-impor-bekas-kai-pakai-krl-baru-buatan-inka",
-      "headline": "Batal Impor Bekas, KAI Pakai KRL Baru Buatan INKA",
-      "body": "KAI bersama INKA melaksanakan uji coba dinamis KRL produksi dalam negeri rangkaian kedelapan di lintas Bogor-Jakarta Kota.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8742027/dsi-jadi-perantara-tunggal-ekspor-batu-bara-hingga-cpo-ini-penjelasannya",
-      "headline": "DSI Jadi Perantara Tunggal Ekspor Batu Bara hingga CPO, Ini Penjelasannya",
-      "body": "DSI akan menjadi perantara tunggal dalam ekspor komoditas sumber daya alam strategis, yaitu batu bara, kelapa sawit atau crude palm oil (CPO), serta ferroalloy.",
-      "sectors": [
-        "energi"
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8742022/aturan-devisa-hasil-ekspor-sumber-daya-alam-direvisi-ini-isinya",
-      "headline": "Aturan Devisa Hasil Ekspor Sumber Daya Alam Direvisi, Ini Isinya",
-      "body": "Pemerintah melakukan revisi keempat peraturan penempatan devisa hasil ekspor (DHE) sumber daya alam (SDA). Aturan baru ditargetkan selesai akhir bulan ini.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-06",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8742020/dsi-bakal-atur-harga-ekspor-batu-bara-hingga-cpo",
-      "headline": "DSI Bakal Atur Harga Ekspor Batu Bara hingga CPO",
-      "body": "PT Danantara Sumberdaya Indonesia (DSI) akan menentukan rentang harga ekspor batu bara, kelapa sawit atau crude palm oil (CPO), serta ferroalloy.",
-      "sectors": [
-        "energi"
-      ]
     }
   ]
 }
