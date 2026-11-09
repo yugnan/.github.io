@@ -1,106 +1,108 @@
 {
-  "updated_at": "2026-11-08T03:05:50.785Z",
+  "updated_at": "2026-11-09T03:28:01.442Z",
   "items": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261105160745-8-782686/video-ekonomi-ri-tumbuh-547-daya-beli-kelas-menengah-sudah-pulih",
-      "headline": "Video: Ekonomi RI Tumbuh 5.47%, Daya Beli Kelas Menengah Sudah Pulih?",
-      "body": "Ekonomi RI Tumbuh 5.47%, Nasib daya Beli Kelas Menengah Sudah Pulih?",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261106131135-128-782990/china-india-sumbang-devisa-rp-123-triliun-lewat-batu-bara",
+      "headline": "China dan India Sumbang Devisa Rp 123 Triliun Lewat Batu Bara",
+      "body": "Ekspor batu bara Indonesia secara volume turun sepanjang Januari-September 2026 tetapi secara nilai meningkat",
       "sectors": [
-        "consumer goods"
+        "energi"
       ]
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261107222401-33-783224/keseringan-makan-ampela-ayam-ini-yang-terjadi-pada-manusia",
-      "headline": "Keseringan Makan Ampela Ayam, Ini yang Terjadi Pada Manusia",
-      "body": "Ampela ayam sebagai lauk bergizi tinggi kaya protein dan mineral. Tapi bagaimana jadinya kalau kebanyakan makan ampela?",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261109101739-4-783442/pertamina-berhasil-uji-coba-solar-panel-di-kapal-oil-barge-patra-2302",
+      "headline": "Pertamina Berhasil Uji Coba Solar Panel di Kapal Oil Barge Patra 2302",
+      "body": "Pertamina menuntaskan uji operasional instalasi panel surya di Kapal OB Patra",
       "sectors": []
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261104172937-4-782362/pulang-dari-pasar-tanah-abang-jadi-pengusaha-fashion-begini-caranya",
-      "headline": "Pulang dari Pasar Tanah Abang Jadi Pengusaha Fashion, Begini Caranya",
-      "body": "Calon pengusaha fashion bisa mulai membuka bisnis di Tanah Abang dengan cara begini.",
+      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261106114418-33-782921/morotai-hidden-escape-untuk-menikmati-waktu-tenang-di-tengah-alam",
+      "headline": "Morotai, Hidden Escape untuk Menikmati Waktu Tenang di Tengah Alam",
+      "body": "Pulau Morotai di Maluku Utara menawarkan liburan tenang dengan pantai berpasir putih dan suasana santai. Nikmati pengalaman sederhana untuk menyegarkan diri.",
       "sectors": []
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261108090247-4-783258/kejutan-trump-tawari-bos-ufc-jadi-pejabat-penting-gedung-putih",
-      "headline": "Kejutan! Trump Tawari Bos UFC Jadi Pejabat Penting Gedung Putih",
-      "body": "Presiden Trump merombak jajaran Gedung Putih setelah kekalahan pemilu paruh waktu dan meminta bos UFC ini jadi pejabat penting Gedung Putih..",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261109083136-8-783399/video-indonesia-unjuk-kekuatan-di-cop31-perjuangkan-pendanaan-iklim",
+      "headline": "Video: Indonesia Unjuk Kekuatan di COP31, Perjuangkan Pendanaan Iklim",
+      "body": "COP ke-31 mulai digelar hari ini hingga 20 November 2026 di Antalya Expo Center, Turki.",
       "sectors": []
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261108062038-17-783240/dirut-bank-di-malang-maling-emas-bikin-kredit-palsu-puluhan-miliar",
-      "headline": "Dirut Bank di Malang Maling Emas-Bikin Kredit Palsu Puluhan Miliar",
-      "body": "OJK ungkap dugaan tindak pidana perbankan oleh petinggi PT BPR DCN, melibatkan kredit fiktif Rp15,6 miliar dan pengambilan agunan emas.",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261109101324-17-783438/direktur-keuangan-garuda--giaa--balagopal-kunduvara-mundur",
+      "headline": "Direktur Keuangan Garuda (GIAA) Balagopal Kunduvara Mundur",
+      "body": "Balagopal Kunduvara mengundurkan diri sebagai CFO Garuda Indonesia. Ia menyebut pengunduran ini terkait transformasi.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-09",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261109095230-4-783431/bukan-rp10000-per-liter-bahlil-ungkap-harga-asli-bbm-subsidi-ri",
+      "headline": "Bukan Rp10.000 per Liter, Bahlil Ungkap Harga Asli BBM Subsidi RI",
+      "body": "Menko Hilirisasi dan Transisi Energi Bahlil Lahadalia mengungkapkan harga asli BBM subsidi RI",
       "sectors": [
-        "perbankan"
+        "energi"
       ]
     },
     {
-      "date": "2026-11-08",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261029084214-8-780437/video-perkuat-koperasi-hortikultura-atasi-masalah-harga--distribusi",
-      "headline": "Video: Perkuat Koperasi Hortikultura Atasi Masalah Harga - Distribusi",
-      "body": "Kementan Siapkan Koperasi Hortikultura Atasi Masalah Harga - Distribusi Petani Buah dan Sayur",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8743262/72-336-orang-jadi-korban-phk",
-      "headline": "72.336 Orang Jadi Korban PHK!",
-      "body": "Sebanyak 72.336 tenaga kerja melaporkan pemutusan hubungan kerja (PHK) sepanjang Januari-Oktober 2026.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-08",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8743193/rincian-emiten-didepak-bursa-dan-saham-kategori-hsc",
-      "headline": "Rincian Emiten Didepak Bursa dan Saham Kategori HSC",
-      "body": "Bursa Efek Indonesia (BEI) akan menghapus pencatatan saham (delisting) 18 emiten pada 10 November 2026. BEI juga mencatat ada 83 saham masuk kategori HSC.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-08",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8743192/daftar-saham-calon-delisting-yang-investornya-masih-nyangkut",
-      "headline": "Daftar Saham Calon Delisting yang Investornya Masih Nyangkut",
-      "body": "Bursa Efek Indonesia (BEI) akan menghapus pencatatan saham (delisting) 18 emiten pada 10 November 2026. Namun, masih ada investor nyangkut di sejumlah saham",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-08",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8742033/jangan-lupa-serbu-transmart-full-day-sale-aneka-barang-elektronik-banting-harga",
-      "headline": "Jangan Lupa Serbu Transmart Full Day Sale! Aneka Barang Elektronik Banting Harga",
-      "body": "Transmart Full Day Sale hadir hari ini, Minggu 8 November 2026.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-07",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8743188/dosa-tujuh-emiten-hingga-akhirnya-dihukum-ojk",
-      "headline": "'Dosa' Tujuh Emiten hingga Akhirnya Dihukum OJK",
-      "body": "Dalam pengumuman terbaru OJK, terdapat tujuh emiten yang masuk dalam daftar pihak yang dikenai sanksi.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8744447/bank-jateng-raih-penghargaan-atas-pembiayaan-inklusif",
+      "headline": "Bank Jateng Raih Penghargaan atas Pembiayaan Inklusif",
+      "body": "Bank Jateng raih penghargaan Leading Inclusive Financing di CNN Indonesia Awards 2026. Komitmen untuk memperluas akses pembiayaan inklusif bagi masyarakat.",
       "sectors": [
         "perbankan"
       ]
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-09",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8743186/syarat-bsu-upah-maksimal-rp-3-5-juta-bulan-daerah-umk-lebih-tinggi-gimana",
-      "headline": "Syarat BSU Upah Maksimal Rp 3,5 Juta/Bulan, Daerah UMK Lebih Tinggi Gimana?",
-      "body": "Kementerian Ketenagakerjaan (Kemnaker) menjelaskan persyaratan yang harus dipenuhi pekerja atau buruh untuk mendapatkan Bantuan Subsidi Upah (BSU) 2026.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8744445/bri-mau-pangkas-anak-usaha",
+      "headline": "BRI Mau Pangkas Anak Usaha",
+      "body": "PT Bank Rakyat Indonesia (Persero) Tbk (BRI) berencana melakukan sejumlah aksi korporasi di tingkat anak usaha, termasuk merger dan akuisisi.",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8744428/pemerintah-cari-dana-rp-30-t-lelang-9-surat-utang-besok",
+      "headline": "Pemerintah Cari Dana Rp 30 T, Lelang 9 Surat Utang Besok",
+      "body": "Kementerian Keuangan akan melelang 9 seri surat utang negara berdenominasi rupiah untuk mendukung APBN 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8743817/batam-genjot-pertanian-40-hektare-lahan-disiapkan-untuk-pangan",
+      "headline": "Batam Genjot Pertanian, 40 Hektare Lahan Disiapkan untuk Pangan",
+      "body": "Petani menunjukkan hasil panen cabai rawit di Nongsa, Batam, sebagai bagian dari upaya meningkatkan produksi dan ketahanan pangan lokal.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8744384/bri-cetak-laba-bersih-rp-48-2-triliun-tumbuh-16-8",
+      "headline": "BRI Cetak Laba Bersih Rp 48,2 Triliun, Tumbuh 16,8%",
+      "body": "Pertumbuhan laba bersih ini mencerminkan pertumbuhan fundamental BRI secara berkelanjutan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8744380/emas-antam-tak-bergerak-segini-harga-jual-dan-buyback-hari-ini",
+      "headline": "Emas Antam Tak Bergerak! Segini Harga Jual dan Buyback Hari Ini",
+      "body": "Harga emas Antam stagnan di Rp 2.545.000 per gram hari ini. Rincian harga untuk berbagai ukuran juga tersedia. Cek informasi buyback dan pajak terkait.",
       "sectors": []
     }
   ]
