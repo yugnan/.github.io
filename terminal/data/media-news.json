@@ -1,107 +1,104 @@
 {
-  "updated_at": "2026-11-10T05:01:49.006Z",
+  "updated_at": "2026-11-11T03:35:33.908Z",
   "items": [
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261110114839-4-783849/update-saudi-ledakan-baru-hantam-riyadh-warga-diminta-berlindung",
-      "headline": "Update Saudi: Ledakan Baru Hantam Riyadh, Warga Diminta Berlindung",
-      "body": "Beberapa ledakan terdengar di ibu kota Saudi pada Selasa (10/11/2026)",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261111102535-4-784154/gagas-kampanye-puntungberuntung-nojorono-raih-cnbc-awards-2026",
+      "headline": "Gagas Kampanye #PuntungBeruntung, Nojorono Raih CNBC Awards 2026",
+      "body": "Gerakan #PuntungBeruntung dorong tanggung jawab pasca-konsumsi dengan Butt Collector di 62 titik di Pulau Jawa. Raih penghargaan Most Transformative Initiative",
       "sectors": []
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261110114636-17-783847/pengumuman-nasib-saham-ri-pekan-ini-bei-bakal-temui-msci",
-      "headline": "Pengumuman Nasib Saham RI Pekan Ini, BEI Bakal Temui MSCI",
-      "body": "Bursa Efek Indonesia akan bertemu MSCI untuk membahas reformasi pasar modal.",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261111102514-128-784156/daftar-33-perusahaan-yang-delisting-dari-bursa-ri-dalam-3-tahun",
+      "headline": "Daftar 33 Perusahaan yang Delisting dari Bursa RI dalam 3 Tahun",
+      "body": "Jumlah perusahaan yang hengkang dari Bursa Efek Indonesia (BEI) terus melonjak dalam tiga tahun terakhir.",
       "sectors": []
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261110094937-128-783840/ekspor-batu-bara-rp341-t-pengusaha-kaya-pemerintah-dapat-berapa",
-      "headline": "Ekspor Batu Bara Rp341 T: Pengusaha Kaya: Pemerintah Dapat Berapa?",
-      "body": "nilai ekspor naik 4,86% menjadi US$18,81 miliar atau sekitar Rp341,2 triliun dengan asumsi kurs US$1= Rp18.138.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261111084131-8-784104/video-cop31-soroti-peran-perempuan-menjaga-lingkungan-dari-rumah",
+      "headline": "Video: COP31 Soroti Peran Perempuan Menjaga Lingkungan dari Rumah",
+      "body": "Peran perempuan dalam menjaga lingkungan dinilai menjadi salah satu kunci dalam menghadapi perubahan iklim.",
       "sectors": [
-        "energi"
+        "properti"
       ]
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261110102808-17-783805/penurunan-ihsg-bisa-jatuhkan-daya-beli-rumah-tangga-ri",
-      "headline": "Penurunan IHSG Bisa Jatuhkan Daya Beli Rumah Tangga RI",
-      "body": "Penurunan Indeks Harga Saham Gabungan (IHSG) bisa memberikan dampak rambatan kepada daya beli masyarakat.",
+      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261111100006-37-784145/lori-huang-bisa-kebagian-rp1125-triliun-jika-ceraikan-ceo-nvidia",
+      "headline": "Lori Huang Bisa Kebagian Rp1.125 Triliun Jika Ceraikan CEO Nvidia",
+      "body": "Pengakuan perselingkuhan Jensen Huang, pendiri Nvidia, memicu spekulasi perceraian.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-11",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261111095228-17-784141/terbitkan-lagi-panda-bond-pemerintah-ri-dapat-utang-murah",
+      "headline": "Terbitkan Lagi Panda Bond, Pemerintah RI Dapat Utang Murah",
+      "body": "Pemerintah masih mendapatkan tingkat imbal hasil atau yield yang murah, dari hasil penerbitan Surat Utang Negara (SUN) Panda Bonds",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-11",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261111084628-8-784107/video-menko-yusril-jelaskan-prosedur-wakil-presiden-untuk-resign",
+      "headline": "Video: Menko Yusril Jelaskan Prosedur Wakil Presiden Untuk 'Resign'",
+      "body": "Menko Kumham Imipas, menjelaskan bahwa status Gibran masih menjabat sebagai Wapres meskipun dia sudah mengajukan pengunduran diri",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8746383/biaya-hidup-meningkat-warga-as-kian-terbebani-harga-kebutuhan-pokok",
+      "headline": "Biaya Hidup Meningkat, Warga AS Kian Terbebani Harga Kebutuhan Pokok",
+      "body": "Kenaikan harga pangan, bahan bakar, dan kesehatan membebani warga Jackson, Mississippi. Tekanan biaya hidup turut menekan daya beli dan usaha kecil.",
       "sectors": [
-        "properti",
         "consumer goods"
       ]
     },
     {
-      "date": "2026-11-10",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261110114532-4-783846/puan-jawab-rumor-pengunduran-diri-gibran-mas-gibran-masih-wapres",
-      "headline": "Puan Jawab Rumor Pengunduran Diri Gibran: Mas Gibran Masih Wapres",
-      "body": "Puan Maharani menegaskan Gibran Rakabuming Raka masih menjabat sebagai Wapres. Ia menanggapi isu pengunduran diri dan pengusulan Hak Menyatakan Pendapat di DPR.",
+      "date": "2026-11-11",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8747715/ri-terbitkan-panda-bond-lagi-pesanan-tembus-rp-46-triliun",
+      "headline": "RI Terbitkan Panda Bond Lagi, Pesanan Tembus Rp 46 Triliun",
+      "body": "Pemerintah Indonesia menerbitkan Panda Bonds senilai 10 miliar yuan untuk diversifikasi pembiayaan APBN 2026.",
       "sectors": []
     },
     {
-      "date": "2026-11-10",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261110085700-8-783756/trump-akui-kedekatan-dengan-israel-jadi-biang-republik-kalah-di-pemilu",
-      "headline": "Trump Akui Kedekatan dengan Israel Jadi Biang Republik Kalah di Pemilu",
-      "body": "Trump akui meningkatnya sentimen negatif warga Amerika terhadap Israel menjadi salah satu faktor kekalahan Partai Republik",
+      "date": "2026-11-11",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8747710/harga-emas-antam-hari-ini-jatuh",
+      "headline": "Harga Emas Antam Hari Ini Jatuh!",
+      "body": "Harga emas Antam hari ini turun Rp 30.000 per gram menjadi Rp 2.530.000. Rincian harga emas dari 0,5 gram hingga 1.000 gram juga disajikan.",
       "sectors": []
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8746267/dpr-soroti-apbn-2026-harga-minyak-rupiah-hingga-pasar-modal-jadi-perhatian",
-      "headline": "DPR Soroti APBN 2026, Harga Minyak, Rupiah Hingga Pasar Modal Jadi Perhatian",
-      "body": "Ketua DPR Puan Maharani buka rapat paripurna, soroti ketidakpastian ekonomi global. DPR akan pantau ketahanan fiskal APBN 2026 untuk kesejahteraan rakyat.",
-      "sectors": [
-        "energi"
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8746262/bursa-depak-18-emiten-mulai-hari-ini",
-      "headline": "Bursa Depak 18 Emiten Mulai Hari Ini!",
-      "body": "Bursa Efek Indonesia (BEI) resmi melakukan penghapusan pencatatan saham atau delisting terhadap 18 perusahaan tercatat.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8747682/dolar-as-naik-lagi-ke-rp-18-100",
+      "headline": "Dolar AS Naik Lagi ke Rp 18.100",
+      "body": "Dolar Amerika Serikat (AS) menguat pada pembukaan perdagangan pagi ini, Rabu (11/11/2026).",
       "sectors": []
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/moneter/d-8746254/16-entitas-keuangan-ilegal-ditutup-gegara-penipuan-begini-modusnya",
-      "headline": "16 Entitas Keuangan Ilegal Ditutup Gegara Penipuan, Begini Modusnya",
-      "body": "Satgas Pemberantasan Aktivitas Keuangan Ilegal (Satgas PASTI) resmi menonaktifkan kegiatan 16 entitas keuangan ilegal yang merugikan masyarakat.",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8747656/ihsg-dibuka-menguat-ke-level-5-134",
+      "headline": "IHSG Dibuka Menguat ke Level 5.134",
+      "body": "Indeks Harga Saham Gabungan (IHSG) pagi ini dibuka di zona hijau.",
       "sectors": []
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8746217/cek-ini-syarat-penerima-bantuan-subsidi-upah-2026",
-      "headline": "Cek! Ini Syarat Penerima Bantuan Subsidi Upah 2026",
-      "body": "Saat ini, data calon penerima BSU masih dalam proses di Kementerian Ketenagakerjaan.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-10",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8746171/50-ribu-bendahara-kopdes-rampung-sertifikasi-desember-apa-tugasnya",
-      "headline": "50 Ribu Bendahara Kopdes Rampung Sertifikasi Desember, Apa Tugasnya?",
-      "body": "Kementerian Koperasi (Kemenkop) menargetkan sertifikasi 50 ribu bendahara Koperasi Desa/Kelurahan Merah Putih (KDKMP) rampung pada Desember mendatang.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-10",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8746056/impor-krl-bekas-jepang-batal-kci-pesan-kereta-inka-hingga-2028",
-      "headline": "Impor KRL Bekas Jepang Batal, KCI Pesan Kereta INKA hingga 2028",
-      "body": "Direktur Utama KAI Commuter, Purnomo Sidi menjelaskan hingga 2028 pihaknya akan memesan trainset baru dari INKA.",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8747638/suasana-kantor-nvidia-usai-jensen-huang-ngaku-selingkuh",
+      "headline": "Suasana Kantor Nvidia Usai Jensen Huang Ngaku Selingkuh",
+      "body": "CEO Nvidia Jensen Huang mendatangi kantornya di Santa Clara, California, pada Senin dan menggelar rapat rutin pagi bersama jajaran eksekutif senior.",
       "sectors": []
     }
   ]
