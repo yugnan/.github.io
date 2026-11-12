@@ -1,104 +1,52 @@
 {
-  "updated_at": "2026-11-11T03:35:33.908Z",
+  "updated_at": "2026-11-12T04:43:59.523Z",
   "items": [
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261111102535-4-784154/gagas-kampanye-puntungberuntung-nojorono-raih-cnbc-awards-2026",
-      "headline": "Gagas Kampanye #PuntungBeruntung, Nojorono Raih CNBC Awards 2026",
-      "body": "Gerakan #PuntungBeruntung dorong tanggung jawab pasca-konsumsi dengan Butt Collector di 62 titik di Pulau Jawa. Raih penghargaan Most Transformative Initiative",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261112113347-7-784583/potret-gibran-tiba-di-mpr-tampil-dengan-dasi-merah-bawa-map-putih",
+      "headline": "Potret Gibran Tiba di MPR: Tampil dengan Dasi Merah dan Bawa Map Putih",
+      "body": "Berdasarkan pantauan CNBC Indonesia, Kamis (12/11/2026), Gibran datang sekitar pukul 11.15 WIB.",
       "sectors": []
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261111102514-128-784156/daftar-33-perusahaan-yang-delisting-dari-bursa-ri-dalam-3-tahun",
-      "headline": "Daftar 33 Perusahaan yang Delisting dari Bursa RI dalam 3 Tahun",
-      "body": "Jumlah perusahaan yang hengkang dari Bursa Efek Indonesia (BEI) terus melonjak dalam tiga tahun terakhir.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261112105121-4-784560/bandingkan-kecanggihan-vietnam-luthfi-desak-kementerian-lakukan-ini",
+      "headline": "Bandingkan Kecanggihan Vietnam, Luthfi Desak Kementerian Lakukan Ini",
+      "body": "Gubernur Jateng Luthfi mendesak Kementerian Investasi percepat izin 12 kawasan industri baru untuk dorong ekonomi dan lapangan kerja.",
       "sectors": []
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261111084131-8-784104/video-cop31-soroti-peran-perempuan-menjaga-lingkungan-dari-rumah",
-      "headline": "Video: COP31 Soroti Peran Perempuan Menjaga Lingkungan dari Rumah",
-      "body": "Peran perempuan dalam menjaga lingkungan dinilai menjadi salah satu kunci dalam menghadapi perubahan iklim.",
-      "sectors": [
-        "properti"
-      ]
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261112112503-4-784579/melejit-62-pertamina-berhasil-cetak-laba-rp342-triliun-di-h1-2026",
+      "headline": "Melejit 62%, Pertamina Berhasil Cetak Laba Rp34,2 Triliun di H1-2026",
+      "body": "Pertamina berhasil cetak laba bersih Rp34,2 triliun di H1-2026",
+      "sectors": []
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261111100006-37-784145/lori-huang-bisa-kebagian-rp1125-triliun-jika-ceraikan-ceo-nvidia",
-      "headline": "Lori Huang Bisa Kebagian Rp1.125 Triliun Jika Ceraikan CEO Nvidia",
-      "body": "Pengakuan perselingkuhan Jensen Huang, pendiri Nvidia, memicu spekulasi perceraian.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261112110351-4-784567/bos-freeport-ungkap-produksi-tembaga-ri-kini-sudah-lampaui-jepang",
+      "headline": "Bos Freeport Ungkap Produksi Tembaga RI Kini Sudah Lampaui Jepang",
+      "body": "Dirut Freeport Indonesia Tony Wenas membeberkan produksi tembaga RI yang sudah melampaui Jepang",
       "sectors": []
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261111095228-17-784141/terbitkan-lagi-panda-bond-pemerintah-ri-dapat-utang-murah",
-      "headline": "Terbitkan Lagi Panda Bond, Pemerintah RI Dapat Utang Murah",
-      "body": "Pemerintah masih mendapatkan tingkat imbal hasil atau yield yang murah, dari hasil penerbitan Surat Utang Negara (SUN) Panda Bonds",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261112112834-8-784581/video-pakai-dasi-merah-bawa-map-wapres-gibran-tiba-di-gedung-mpr",
+      "headline": "Video: Pakai Dasi Merah dan Bawa Map, Wapres Gibran Tiba di Gedung MPR",
+      "body": "Pakai Dasi Merah dan Bawa Map Putih, Wapres Gibran Tiba di Gedung MPR RI",
       "sectors": []
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261111084628-8-784107/video-menko-yusril-jelaskan-prosedur-wakil-presiden-untuk-resign",
-      "headline": "Video: Menko Yusril Jelaskan Prosedur Wakil Presiden Untuk 'Resign'",
-      "body": "Menko Kumham Imipas, menjelaskan bahwa status Gibran masih menjabat sebagai Wapres meskipun dia sudah mengajukan pengunduran diri",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-11",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8746383/biaya-hidup-meningkat-warga-as-kian-terbebani-harga-kebutuhan-pokok",
-      "headline": "Biaya Hidup Meningkat, Warga AS Kian Terbebani Harga Kebutuhan Pokok",
-      "body": "Kenaikan harga pangan, bahan bakar, dan kesehatan membebani warga Jackson, Mississippi. Tekanan biaya hidup turut menekan daya beli dan usaha kecil.",
-      "sectors": [
-        "consumer goods"
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/moneter/d-8747715/ri-terbitkan-panda-bond-lagi-pesanan-tembus-rp-46-triliun",
-      "headline": "RI Terbitkan Panda Bond Lagi, Pesanan Tembus Rp 46 Triliun",
-      "body": "Pemerintah Indonesia menerbitkan Panda Bonds senilai 10 miliar yuan untuk diversifikasi pembiayaan APBN 2026.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-11",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8747710/harga-emas-antam-hari-ini-jatuh",
-      "headline": "Harga Emas Antam Hari Ini Jatuh!",
-      "body": "Harga emas Antam hari ini turun Rp 30.000 per gram menjadi Rp 2.530.000. Rincian harga emas dari 0,5 gram hingga 1.000 gram juga disajikan.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-11",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8747682/dolar-as-naik-lagi-ke-rp-18-100",
-      "headline": "Dolar AS Naik Lagi ke Rp 18.100",
-      "body": "Dolar Amerika Serikat (AS) menguat pada pembukaan perdagangan pagi ini, Rabu (11/11/2026).",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-11",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8747656/ihsg-dibuka-menguat-ke-level-5-134",
-      "headline": "IHSG Dibuka Menguat ke Level 5.134",
-      "body": "Indeks Harga Saham Gabungan (IHSG) pagi ini dibuka di zona hijau.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-11",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8747638/suasana-kantor-nvidia-usai-jensen-huang-ngaku-selingkuh",
-      "headline": "Suasana Kantor Nvidia Usai Jensen Huang Ngaku Selingkuh",
-      "body": "CEO Nvidia Jensen Huang mendatangi kantornya di Santa Clara, California, pada Senin dan menggelar rapat rutin pagi bersama jajaran eksekutif senior.",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261112083811-19-784503/video-hasil-rebalancing-msci-1-saham-ri-turun-kelas-8-saham-didepak",
+      "headline": "Video: Hasil Rebalancing MSCI: 1 Saham RI Turun Kelas, 8 Saham Didepak",
+      "body": "MSCI mengumumkan hasil evaluasi indeks November 2026 yang mengubah komposisi sejumlah saham Indonesia.",
       "sectors": []
     }
   ]
