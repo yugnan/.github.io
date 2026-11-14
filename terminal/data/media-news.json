@@ -1,104 +1,56 @@
 {
-  "updated_at": "2026-11-13T03:56:03.115Z",
+  "updated_at": "2026-11-14T03:54:31.080Z",
   "items": [
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261113083235-8-784865/video-jensen-huang-resmi-mundur-dari-ceo-nvidia",
-      "headline": "Video: Jensen Huang Resmi Mundur dari CEO NVIDIA",
-      "body": "Jensen Huang resmi mengundurkan diri dari jabatannya sebagai CEO sekaligus Presiden NVIDIA setelah Huang terseret sejumlah skandal",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261114081343-4-785188/ini-spesifikasi-rumah-pensiun-gibran-usai-mundur-jadi-wapres-ri",
+      "headline": "Ini Spesifikasi Rumah Pensiun Gibran Usai Mundur Jadi Wapres RI",
+      "body": "Gibran Rakabuming Raka bisa memperoleh sejumlah fasilitas dari negara pasca mundur menjadi Wapres RI",
+      "sectors": [
+        "properti"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261114075531-37-785187/gawat-40000-an-pns-jadi-korban-penyadapan-email-nomor-hp",
+      "headline": "Gawat! 40.000-an PNS Jadi Korban Penyadapan Email dan Nomor HP",
+      "body": "40.000-an PNS jadi korban penyadapan email dan nomor HP di AS",
       "sectors": []
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261113103858-4-784931/bukan-rp10000-liter-menkeu-ungkap-harga-asli-bbm-pertalite",
-      "headline": "Bukan Rp10.000/Liter! Menkeu Ungkap Harga Asli BBM Pertalite",
-      "body": "Menteri Keuangan Suahasil Nazara menegaskan, tingginya harga minyak dunia membuat anggaran subsidi energi kian membesar.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261114062214-4-785180/tok-harry-potter-diberi-hukuman-34-tahun-penjara-di-thailand",
+      "headline": "Tok! \"Harry Potter\" Diberi Hukuman 34 Tahun Penjara di Thailand",
+      "body": "Aktivis prodemokrasi Thailand, Arnon Nampa, kembali harus menerima vonis hukuman penjara terkait kasus penghinaan terhadap monarki",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-14",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261114093608-128-785203/kabar-gembira-harga-emas-antam-logam-mulia-hari-ini-naik-rp-8000",
+      "headline": "Kabar Gembira! Harga Emas Antam Logam Mulia Hari Ini Naik Rp 8.000",
+      "body": "Harga emas batangan produksi PT Aneka Tambang (Antam) Logam Mulia akhirnya bangkit pada perdagangan hari ini, Sabtu (14/11/2026).",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261113095611-4-784906/bos-mind-id-buka-bukaan-upaya-dekarbonisasi-di-seluruh-lini-bisnis",
-      "headline": "Bos MIND ID Buka-Bukaan Upaya Dekarbonisasi di Seluruh Lini Bisnis",
-      "body": "MIND ID terus mendorong dekarbonisasi dalam setiap lini bisnisnya",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261114070250-17-785183/daftar-fasilitas-tunjangan-yang-diterima-gibran-usai-mundur-wapres",
+      "headline": "Daftar Fasilitas dan Tunjangan yang Diterima Gibran Usai Mundur Wapres",
+      "body": "Ini Daftar fasilitas dan tunjangan yang diterima Gibran Rakabuming Raka usai mundur dari Wakil Presiden",
       "sectors": []
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261113104415-8-784933/video-gibran-rakabuming-raka-alasan-mundur-dari-wakil-presiden-ri",
-      "headline": "Video: Gibran Rakabuming Raka dan Alasan Mundur Dari Wakil Presiden RI",
-      "body": "Gibran Rakabuming Raka dan Alasan Mundur Dari Jabatan Wakil Presiden RI",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261113103350-17-784928/resmi-pailit-nasib-totalindo-eka-persada--tops--di-ujung-tanduk",
-      "headline": "Resmi Pailit! Nasib Totalindo Eka Persada (TOPS), di Ujung Tanduk",
-      "body": "PT Totalindo Eka Persada Tbk. dinyatakan pailit setelah pengadilan membatalkan perjanjian perdamaian. Manajemen kini menghadapi ketidakpastian.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261113102915-4-784929/permudah-pelanggan-korporasi-telkomsel-uji-coba-enterprise-corner",
-      "headline": "Permudah Pelanggan Korporasi, Telkomsel Uji Coba Enterprise Corner",
-      "body": "Telkomsel luncurkan Enterprise Corner di GraPARI Wisma Alia untuk pelanggan korporat. Inisiatif ini mempermudah akses layanan dan solusi bisnis yang relevan.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8751063/suahasil-siapkan-rp-945-t-buat-belanja-negara-hingga-desember",
-      "headline": "Suahasil Siapkan Rp 945 T buat Belanja Negara hingga Desember",
-      "body": "Kementerian Keuangan (Kemenkeu) menganggarkan belanja negara Rp 945,2 triliun sepanjang November-Desember.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8751052/penerimaan-pajak-kurang-rp-514-t-sisa-waktu-tinggal-2-bulan",
-      "headline": "Penerimaan Pajak Kurang Rp 514 T, Sisa Waktu Tinggal 2 Bulan",
-      "body": "Menteri Keuangan Suahasil Nazara laporkan pendapatan negara Rp 2.618 triliun per Oktober 2026. Masih ada Rp 590,1 triliun.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8751049/modal-asing-masuk-ri-rp-127-t-tapi-pasar-saham-tekor-rp-97-t",
-      "headline": "Modal Asing Masuk RI Rp 127 T, tapi Pasar Saham Tekor Rp 97 T",
-      "body": "Menteri Keuangan Suahasil Nazara mengungkapkan Indonesia masih mencatatkan inflow modal asing meski ada outflow di pasar saham.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8750997/duit-negara-keluar-lebih-banyak-apbn-ri-minus-rp-379-t-sampai-oktober",
-      "headline": "Duit Negara Keluar Lebih Banyak, APBN RI Minus Rp 379 T Sampai Oktober",
-      "body": "Menteri Keuangan Suahasil mengumumkan defisit APBN Rp 379,3 triliun hingga Oktober 2026, setara 1,47% PDB. Pendapatan negara tumbuh 23,9% yoy.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-13",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/energi/d-8750980/klh-apresiasi-langkah-mind-id-percepat-dekarbonisasi-tambang",
-      "headline": "KLH Apresiasi Langkah MIND ID Percepat Dekarbonisasi Tambang",
-      "body": "MIND ID mendapat apresiasi KLH/BPLH atas upaya dekarbonisasi dan pengurangan emisi. Target pengurangan emisi 2,025 juta ton CO2e ditetapkan untuk 2030.",
-      "sectors": [
-        "energi"
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8750979/dolar-as-makin-perkasa-ke-rp-18-240",
-      "headline": "Dolar AS Makin Perkasa ke Rp 18.240",
-      "body": "Nilai tukar dolar Amerika Serikat (AS) menguat terhadap rupiah pagi ini. Mata uang Paman Sam kini berada di level Rp 18.200.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261114083720-7-785190/semua-bandara-as-tiba-tiba-lumpuh-potret-penumpang-numpuk-terlantar",
+      "headline": "Semua Bandara AS Tiba-Tiba Lumpuh, Potret Penumpang Numpuk dan Terlantar",
+      "body": "Penghentian seluruh penerbangan dari negeri paman sam tersebut terjadi akiibat adanya kegagalan komunikasi yang melanda pusat kendali.",
       "sectors": []
     }
   ]
