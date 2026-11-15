@@ -1,56 +1,106 @@
 {
-  "updated_at": "2026-11-14T03:54:31.080Z",
+  "updated_at": "2026-11-15T03:36:56.320Z",
   "items": [
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261114081343-4-785188/ini-spesifikasi-rumah-pensiun-gibran-usai-mundur-jadi-wapres-ri",
-      "headline": "Ini Spesifikasi Rumah Pensiun Gibran Usai Mundur Jadi Wapres RI",
-      "body": "Gibran Rakabuming Raka bisa memperoleh sejumlah fasilitas dari negara pasca mundur menjadi Wapres RI",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261115072235-4-785308/buka-warung-rokok-ilegal-di-bekasi-dua-warga-china-diamankan",
+      "headline": "Buka Warung Rokok Ilegal di Bekasi, Dua Warga China Diamankan",
+      "body": "Kantor Imigrasi Bekasi mendeportasi dua WN China karena menyalahgunakan izin tinggal untuk berjualan rokok-makanan.",
       "sectors": [
-        "properti"
+        "consumer goods"
       ]
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261114075531-37-785187/gawat-40000-an-pns-jadi-korban-penyadapan-email-nomor-hp",
-      "headline": "Gawat! 40.000-an PNS Jadi Korban Penyadapan Email dan Nomor HP",
-      "body": "40.000-an PNS jadi korban penyadapan email dan nomor HP di AS",
+      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261114220026-38-785290/potret-warga-ngamuk-demo-besar-besaran-tolak-proyek-data-center-ai",
+      "headline": "Potret Warga Ngamuk, Demo Besar-Besaran Tolak Proyek Data Center AI",
+      "body": "Masyarakat berargumen bahwa pembangunan fasilitas data center AI dapat menghambat pencapaian target iklim.",
       "sectors": []
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261114062214-4-785180/tok-harry-potter-diberi-hukuman-34-tahun-penjara-di-thailand",
-      "headline": "Tok! \"Harry Potter\" Diberi Hukuman 34 Tahun Penjara di Thailand",
-      "body": "Aktivis prodemokrasi Thailand, Arnon Nampa, kembali harus menerima vonis hukuman penjara terkait kasus penghinaan terhadap monarki",
+      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261115073136-33-785312/2-aktivitas-sederhana-buat-tingkatkan-kecerdasan-anak-terbukti-ilmiah",
+      "headline": "2 Aktivitas Sederhana Buat Tingkatkan Kecerdasan Anak, Terbukti Ilmiah",
+      "body": "Masa kanak-kanak adalah periode penting untuk perkembangan otak. Simak dua aktivitas penunjang yang bantu kecerdasan!",
       "sectors": []
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261114093608-128-785203/kabar-gembira-harga-emas-antam-logam-mulia-hari-ini-naik-rp-8000",
-      "headline": "Kabar Gembira! Harga Emas Antam Logam Mulia Hari Ini Naik Rp 8.000",
-      "body": "Harga emas batangan produksi PT Aneka Tambang (Antam) Logam Mulia akhirnya bangkit pada perdagangan hari ini, Sabtu (14/11/2026).",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261115063904-4-785305/fakta-penyadapan-prabowo-bermula-dari-perintah-bubarkan-grup-whatsapp",
+      "headline": "Fakta Penyadapan Prabowo Bermula dari Perintah Bubarkan Grup WhatsApp",
+      "body": "Kasus penyadapan ilegal terhadap Presiden Prabowo terungkap. Kapolri Suyudi ungkap modus operandi dan keterlibatan eks jenderal polisi.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-15",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261115003532-128-785304/harga-perak-terjun-bebas-sepekan-ini-biang-keroknya",
+      "headline": "Harga Perak Terjun Bebas Sepekan, Ini Biang Keroknya",
+      "body": "Harga perak dunia jatuh tajam 9-13 November 2026, dipicu data inflasi AS yang memperkuat kekhawatiran pengetatan kebijakan The Fed.",
+      "sectors": [
+        "consumer goods"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/opini/20261115090039-14-785322/gibran-rakabuming-raka-dan-viktimisasi-politik",
+      "headline": "Gibran Rakabuming Raka dan Viktimisasi Politik",
+      "body": "Polemik ijazah Gibran berkembang menjadi isu politik dan legitimasi. Pengunduran dirinya memunculkan pertanyaan tentang tekanan politik dan viktimisasi.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-15",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8753553/beli-rak-besi-diskon-sebesar-ini-di-transmart-full-day-sale",
+      "headline": "Beli Rak Besi Diskon Sebesar Ini di Transmart Full Day Sale",
+      "body": "Beli rak besi di Transmart Full Day Sale dapat diskon gede-gedean.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-15",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8753545/harga-emas-antam-lesu-buyback-anjlok-rp-57-ribu-gram-dalam-sepekan",
+      "headline": "Harga Emas Antam Lesu, Buyback Anjlok Rp 57 Ribu/Gram dalam Sepekan",
+      "body": "Harga emas Antam dalam sepekan ini bergerak fluktuatif.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-15",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/energi/d-8752996/pertamina-temukan-10-sumur-migas-baru-cadangan-bertambah-333-juta-barel",
+      "headline": "Pertamina Temukan 10 Sumur Migas Baru, Cadangan Bertambah 333 Juta Barel",
+      "body": "PT Pertamina Hulu Energi (PHE), selaku Subholding Upstream PT Pertamina (Persero), mencatatkan 10 sumur temuan (discovery) di berbagai wilayah Indonesia.",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-11-14",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261114070250-17-785183/daftar-fasilitas-tunjangan-yang-diterima-gibran-usai-mundur-wapres",
-      "headline": "Daftar Fasilitas dan Tunjangan yang Diterima Gibran Usai Mundur Wapres",
-      "body": "Ini Daftar fasilitas dan tunjangan yang diterima Gibran Rakabuming Raka usai mundur dari Wakil Presiden",
+      "date": "2026-11-15",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/cpns/d-8753004/pelamar-cpns-2026-sudah-bisa-bikin-akun",
+      "headline": "Pelamar CPNS 2026 Sudah Bisa Bikin Akun",
+      "body": "Pembuatan akun dapat dilakukan pada portal, sscasn.bkn.go.id. Pembukaan CPNS akan dibuka pada pekan keempat November 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-15",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8752304/merapat-tv-ac-hingga-kulkas-diskon-besar-besaran-di-transmart-full-day-sale",
+      "headline": "Merapat! TV, AC, hingga Kulkas Diskon Besar-besaran di Transmart Full Day Sale",
+      "body": "Transmart Full Day Sale hadir hari ini, Minggu 15 November 2026.",
       "sectors": []
     },
     {
       "date": "2026-11-14",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261114083720-7-785190/semua-bandara-as-tiba-tiba-lumpuh-potret-penumpang-numpuk-terlantar",
-      "headline": "Semua Bandara AS Tiba-Tiba Lumpuh, Potret Penumpang Numpuk dan Terlantar",
-      "body": "Penghentian seluruh penerbangan dari negeri paman sam tersebut terjadi akiibat adanya kegagalan komunikasi yang melanda pusat kendali.",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/foto-bisnis/d-8752922/ikan-mas-koki-saling-adu-kualitas-di-kontes-goldfish-tulungagung",
+      "headline": "Ikan Mas Koki Saling Adu Kualitas di Kontes Goldfish Tulungagung",
+      "body": "Sebanyak 510 peserta dari dalam dan luar negeri mengikuti Kontes Tulungagung Goldfish 2026. Ajang ini digelar untuk mendongkrak daya saing ikan hias lokal.",
       "sectors": []
     }
   ]
