@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-17T05:34:00.237Z",
+  "updated_at": "2026-11-18T04:58:38.088Z",
   "items": [
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261117122642-4-785907/bank-ikan-dan-knmp-bantu-nelayan-di-ketapang-lawan-kemiskinan",
-      "headline": "Bank Ikan dan KNMP Bantu Nelayan di Ketapang Lawan Kemiskinan",
-      "body": "Bank Ikan di Kampung Nelayan Merah Putih, Lampung, membantu nelayan menabung hasil tangkapan untuk masa depan.",
-      "sectors": [
-        "perbankan"
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261117115200-4-785898/70-hasil-tambang-diminta-buat-negara-ramai-pengusaha-buka-suara",
-      "headline": "70% Hasil Tambang Diminta Buat Negara, Ramai Pengusaha Buka Suara",
-      "body": "Pengusaha ramai-ramai buka suara mengenai 70% hasil tambang untuk negara",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118111110-4-786210/hashim-ungkap-ri-tak-akan-lenyapkan-pltu-batu-bara-ini-alasannya",
+      "headline": "Hashim Ungkap RI Tak Akan Lenyapkan PLTU Batu Bara, Ini Alasannya",
+      "body": "Indonesia tak akan meninggalkan energi fosil",
       "sectors": [
         "energi"
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261117092634-8-785837/video-ojk--bi-perkuat-penyelesaian-sengketa-keuangan-luar-pengadilan",
-      "headline": "Video: OJK - BI Perkuat Penyelesaian Sengketa Keuangan Luar Pengadilan",
-      "body": "Perkuat Jalur Penyelesaian Sengketa Keuangan di Luar Pengadilan, Ini Aksi OJK-BI!",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118103943-4-786204/prabowo-ajak-jepang-garap-mineral-logam-tanah-jarang-ri",
+      "headline": "Prabowo Ajak Jepang Garap Mineral Logam Tanah Jarang RI",
+      "body": "Presiden RI Prabowo Subianto mengajak Jepang untuk menggarap logam tanah jarang di Indonesia dalam KTT ke-29 ASEAN di Filipina",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-18",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261118115117-17-786244/franky-widjaja-mundur-dari-komut-sinar-mas-agro--smra-",
+      "headline": "Franky Widjaja Mundur dari Komut Sinar Mas Agro (SMRA)",
+      "body": "PT Sinar Mas Agro Resources rombak dewan Komisaris. David Fernando Audy menggantikan Franky Oesman Widjaja sebagai Komisaris Utama.",
       "sectors": [
-        "perbankan"
+        "properti"
       ]
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261117111052-33-785891/penuh-misteri-arkeolog-tak-berani-bongkar-makam-kaisar-china",
-      "headline": "Penuh Misteri, Arkeolog Tak Berani Bongkar Makam Kaisar China",
-      "body": "Makam kaisar pertama China, Qin Shi Huang, terletak di bawah bukit dan belum pernah dibongkar selama 2000 tahun.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118085629-8-786161/video-polri-pecat-irjen-eko-hadi-santoso-buntut-penyadapan-prabowo",
+      "headline": "Video: Polri Pecat Irjen Eko Hadi Santoso Buntut Penyadapan Prabowo",
+      "body": "Polri resmi menjatuhkan sanksi pemberhentian tidak dengan hormat atau PTDH terhadap Irjen Eko Hadi Santoso",
       "sectors": []
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261117093438-19-785842/video-saham-rans-anjlok-10-ribu-investor-emiten-raffi-ahmad-hengkang",
-      "headline": "Video: Saham RANS Anjlok, 10 Ribu Investor Emiten Raffi Ahmad Hengkang",
-      "body": "Puluhan Ribu Investor Hengkang, Saham RANS Anjlok",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118111449-4-786211/519-juta-orang-naik-pesawat-saat-nataru-108-juta-serbu-jabodetabek",
+      "headline": "5,19 Juta Orang Naik Pesawat Saat Nataru: 1,08 Juta Serbu Jabodetabek",
+      "body": "Proyeksi pergerakan penumpang pesawat selama Nataru 2026-2027 mencapai 5,19 juta orang. Kemenhub siapkan posko dan stimulus untuk menekan harga tiket.",
       "sectors": []
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261117113500-37-785897/megaspeed-ekspor-gpu-nvidia-ke-ri-disorot-ini-penjelasan-indosat",
-      "headline": "Megaspeed Ekspor GPU Nvidia ke RI Disorot, Ini Penjelasan Indosat",
-      "body": "Indosat menegaskan tidak ada hubungan dengan Megaspeed terkait penyelundupan chip Nvidia ke China.",
-      "sectors": []
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261118111628-17-786214/untung-perusahaan-asuransi-makin-tipis-ojk-ungkap-fakta-ini",
+      "headline": "Untung Perusahaan Asuransi Makin Tipis, OJK Ungkap Fakta Ini",
+      "body": "OJK mengungkapkan industri asuransi menghadapi tekanan dengan ROE menurun menjadi 12,7%. Peluang perbaikan masih ada.",
+      "sectors": [
+        "perbankan"
+      ]
     }
   ]
 }
