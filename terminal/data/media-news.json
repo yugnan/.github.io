@@ -1,59 +1,57 @@
 {
-  "updated_at": "2026-11-18T04:58:38.088Z",
+  "updated_at": "2026-11-19T04:53:03.193Z",
   "items": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118111110-4-786210/hashim-ungkap-ri-tak-akan-lenyapkan-pltu-batu-bara-ini-alasannya",
-      "headline": "Hashim Ungkap RI Tak Akan Lenyapkan PLTU Batu Bara, Ini Alasannya",
-      "body": "Indonesia tak akan meninggalkan energi fosil",
-      "sectors": [
-        "energi"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118103943-4-786204/prabowo-ajak-jepang-garap-mineral-logam-tanah-jarang-ri",
-      "headline": "Prabowo Ajak Jepang Garap Mineral Logam Tanah Jarang RI",
-      "body": "Presiden RI Prabowo Subianto mengajak Jepang untuk menggarap logam tanah jarang di Indonesia dalam KTT ke-29 ASEAN di Filipina",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-18",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261118115117-17-786244/franky-widjaja-mundur-dari-komut-sinar-mas-agro--smra-",
-      "headline": "Franky Widjaja Mundur dari Komut Sinar Mas Agro (SMRA)",
-      "body": "PT Sinar Mas Agro Resources rombak dewan Komisaris. David Fernando Audy menggantikan Franky Oesman Widjaja sebagai Komisaris Utama.",
-      "sectors": [
-        "properti"
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118085629-8-786161/video-polri-pecat-irjen-eko-hadi-santoso-buntut-penyadapan-prabowo",
-      "headline": "Video: Polri Pecat Irjen Eko Hadi Santoso Buntut Penyadapan Prabowo",
-      "body": "Polri resmi menjatuhkan sanksi pemberhentian tidak dengan hormat atau PTDH terhadap Irjen Eko Hadi Santoso",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-18",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261118111449-4-786211/519-juta-orang-naik-pesawat-saat-nataru-108-juta-serbu-jabodetabek",
-      "headline": "5,19 Juta Orang Naik Pesawat Saat Nataru: 1,08 Juta Serbu Jabodetabek",
-      "body": "Proyeksi pergerakan penumpang pesawat selama Nataru 2026-2027 mencapai 5,19 juta orang. Kemenhub siapkan posko dan stimulus untuk menekan harga tiket.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-18",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261118111628-17-786214/untung-perusahaan-asuransi-makin-tipis-ojk-ungkap-fakta-ini",
-      "headline": "Untung Perusahaan Asuransi Makin Tipis, OJK Ungkap Fakta Ini",
-      "body": "OJK mengungkapkan industri asuransi menghadapi tekanan dengan ROE menurun menjadi 12,7%. Peluang perbaikan masih ada.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119081136-8-786493/video-suntikan-likuiditas-rp899-triliun-kredit-mulai-terdorong",
+      "headline": "Video: Suntikan Likuiditas Rp89,9 Triliun, Kredit Mulai Terdorong",
+      "body": "Bank Indonesia menilai penurunan Giro Wajib Minimum atau GWM memberikan dampak positif terhadap likuiditas perbankan",
       "sectors": [
         "perbankan"
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261119100428-128-786540/dolar-as-ngamuk-terbang-ke-level-tertinggi-19-bulan-ini-4-pemicunya",
+      "headline": "Dolar AS Ngamuk! Terbang ke Level Tertinggi 19 Bulan, Ini 4 Pemicunya",
+      "body": "Indeks dolar AS mencapai level tertinggi dalam 19 bulan terakhir seiring meningkatnya ekspektasi kenaikan suku bunga The Fed.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-19",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261119114008-17-786572/kena-denda-ojk-miliaran-rupiah-manajemen-asli-buka-suara",
+      "headline": "Kena Denda OJK Miliaran Rupiah, Manajemen ASLI Buka Suara",
+      "body": "OJK menjatuhkan denda Rp3,345 miliar kepada ASLI dan direksinya. Denda telah dibayar lunas sebelum batas waktu.",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119080907-8-786491/video-iran-ancam-balasan-lebih-besar-jika-as-kembali-menyerang",
+      "headline": "Video: Iran Ancam Balasan Lebih Besar Jika AS Kembali Menyerang",
+      "body": "Panglima Militer Iran Amir Hatami memperingatkan Amerika Serikat agar tidak kembali melancarkan serangan ke Teheran.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-19",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119102705-4-786536/wamenkeu-luky-minta-apbn-apbd-tak-jalan-sendiri-sendiri",
+      "headline": "Wamenkeu Luky Minta APBN-APBD Tak Jalan Sendiri-Sendiri",
+      "body": "Wamenkeu Luky Alfirman mendorong integrasi APBN dan APBD untuk kesejahteraan masyarakat. Fokus pada rehabilitasi daerah bencana dan efisiensi anggaran.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-19",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119112755-4-786567/uu-perampasan-aset-tetap-pertahankan-sanksi-berat-pidana-mati-koruptor",
+      "headline": "UU Perampasan Aset Tetap Pertahankan Sanksi Berat Pidana Mati Koruptor",
+      "body": "DPR sahkan UU Perampasan Aset Korupsi, termasuk sanksi mati bagi koruptor. UU ini terdiri dari 4 pilar untuk keadilan dan pemulihan aset.",
+      "sectors": []
     }
   ]
 }
