@@ -1,56 +1,57 @@
 {
-  "updated_at": "2026-11-19T04:53:03.193Z",
+  "updated_at": "2026-11-20T04:43:19.510Z",
   "items": [
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119081136-8-786493/video-suntikan-likuiditas-rp899-triliun-kredit-mulai-terdorong",
-      "headline": "Video: Suntikan Likuiditas Rp89,9 Triliun, Kredit Mulai Terdorong",
-      "body": "Bank Indonesia menilai penurunan Giro Wajib Minimum atau GWM memberikan dampak positif terhadap likuiditas perbankan",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261120113827-17-786937/akhir-sesi-i-ihsg-turun-15-ke-5116",
+      "headline": "Akhir Sesi I, IHSG Turun 1,5% ke 5.116",
+      "body": "IHSG turun 1,50% di zona merah pada perdagangan Jumat, 20 November 2026. Nilai transaksi Rp3,7 T, fokus pada rilis Neraca Pembayaran.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-20",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261120083955-8-786857/video-bi-sebut-keputusan-bi-rate-untuk-jaga-rupiah-dan-inflasi",
+      "headline": "Video: BI Sebut Keputusan BI-Rate untuk Jaga Rupiah dan Inflasi",
+      "body": "Bank Indonesia menegaskan, kenaikan suku bunga acuan sebelumnya merupakan langkah preemptive atau antisipatif.",
       "sectors": [
-        "perbankan"
+        "perbankan",
+        "consumer goods"
       ]
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261119100428-128-786540/dolar-as-ngamuk-terbang-ke-level-tertinggi-19-bulan-ini-4-pemicunya",
-      "headline": "Dolar AS Ngamuk! Terbang ke Level Tertinggi 19 Bulan, Ini 4 Pemicunya",
-      "body": "Indeks dolar AS mencapai level tertinggi dalam 19 bulan terakhir seiring meningkatnya ekspektasi kenaikan suku bunga The Fed.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261120113105-4-786932/pramono-ketok-ump-dki-2027-rp-61-juta-lebih-cepat-dari-deadline",
+      "headline": "Pramono Ketok UMP DKI 2027 Rp 6,1 Juta Lebih Cepat dari Deadline",
+      "body": "Gubernur DKI Jakarta Pramono Anung umumkan UMP 2027 lebih cepat dari jadwal. Begini katanya.",
       "sectors": []
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261119114008-17-786572/kena-denda-ojk-miliaran-rupiah-manajemen-asli-buka-suara",
-      "headline": "Kena Denda OJK Miliaran Rupiah, Manajemen ASLI Buka Suara",
-      "body": "OJK menjatuhkan denda Rp3,345 miliar kepada ASLI dan direksinya. Denda telah dibayar lunas sebelum batas waktu.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261116140042-8-785604/video-jadi-eksportir-batu-bara-seberapa-besar-ri-sumbang-emisi-co2",
+      "headline": "Video: Jadi Eksportir Batu Bara, Seberapa Besar RI Sumbang Emisi CO2?",
+      "body": "Jadi Eksportir Batu Bara, Seberapa Besar Indonesia Sumbang Emisi Karbon Global?",
       "sectors": [
-        "perbankan"
+        "energi"
       ]
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119080907-8-786491/video-iran-ancam-balasan-lebih-besar-jika-as-kembali-menyerang",
-      "headline": "Video: Iran Ancam Balasan Lebih Besar Jika AS Kembali Menyerang",
-      "body": "Panglima Militer Iran Amir Hatami memperingatkan Amerika Serikat agar tidak kembali melancarkan serangan ke Teheran.",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261120110804-17-786921/pam-jaya-target-ipo-2027-mulai-jajaki-investor-asal-china",
+      "headline": "PAM Jaya Target IPO 2027, Mulai Jajaki Investor Asal China",
+      "body": "Pemerintah DKI Jakarta mempersiapkan IPO PAM Jaya di BEI, menggandeng Mandiri Sekuritas. Target pelaksanaan optimis tahun depan.",
       "sectors": []
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119102705-4-786536/wamenkeu-luky-minta-apbn-apbd-tak-jalan-sendiri-sendiri",
-      "headline": "Wamenkeu Luky Minta APBN-APBD Tak Jalan Sendiri-Sendiri",
-      "body": "Wamenkeu Luky Alfirman mendorong integrasi APBN dan APBD untuk kesejahteraan masyarakat. Fokus pada rehabilitasi daerah bencana dan efisiensi anggaran.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-19",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261119112755-4-786567/uu-perampasan-aset-tetap-pertahankan-sanksi-berat-pidana-mati-koruptor",
-      "headline": "UU Perampasan Aset Tetap Pertahankan Sanksi Berat Pidana Mati Koruptor",
-      "body": "DPR sahkan UU Perampasan Aset Korupsi, termasuk sanksi mati bagi koruptor. UU ini terdiri dari 4 pilar untuk keadilan dan pemulihan aset.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261120111609-4-786924/polri-pakai-jurus-blue-policing-perkuat-keamanan-pelestarian-laut-ri",
+      "headline": "Polri Pakai Jurus Blue Policing Perkuat Keamanan dan Pelestarian Laut RI",
+      "body": "Polri luncurkan program Blue Policing untuk menjaga keamanan perairan Indonesia dan melestarikan ekosistem laut. Apa itu?",
       "sectors": []
     }
   ]
