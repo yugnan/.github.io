@@ -1,53 +1,105 @@
 {
-  "updated_at": "2026-11-21T04:38:54.089Z",
+  "updated_at": "2026-11-22T03:52:42.072Z",
   "items": [
     {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/entrepreneur/20261121093131-25-787161/pesawat-presiden-ri-ini-disadap-awak-kabin-jadi-mata-mata",
-      "headline": "Pesawat Presiden RI Ini Disadap, Awak Kabin Jadi Mata-mata",
-      "body": "Pesawat Presiden Indonesia ini turut disadap. Awak kabin jadi mata-mata yang dibayar intel asing",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261122095030-4-787266/pabrik-permen-di-cikande-terbakar-basarnas-cari-39-karyawan-hilang",
+      "headline": "Pabrik Permen di Cikande Terbakar, Basarnas Cari 39 Karyawan Hilang",
+      "body": "Kebakaran hebat di pabrik permen PT Fonusa Agung Mulia, Serang, Banten, menyebabkan 39 karyawan hilang.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261122103825-4-787270/bni-pertegas-komitmen-pembiayaan-berkelanjutan-di-cop31",
+      "headline": "BNI Pertegas Komitmen Pembiayaan Berkelanjutan di COP31",
+      "body": "BNI berkomitmen mendukung transformasi industri menuju ekonomi rendah karbon melalui pembiayaan berkelanjutan dan ESG Advisory, terungkap di COP31 di Turki.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261122090958-128-787263/kulat-pelawantruffle-asal-bangka-yang-harganya-tembus-rp4-juta",
+      "headline": "Kulat Pelawan,'Truffle' Asal Bangka yang Harganya Tembus Rp4 Juta",
+      "body": "Kulat Pelawan, jamur langka dari Bangka Belitung, dikenal sebagai 'truffle Indonesia'.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261122084613-17-787262/10-orang-terkaya-ri-terkini-dan-mesin-cuan-di-balik-hartanya",
+      "headline": "10 Orang Terkaya RI Terkini dan Mesin Cuan di Balik Hartanya",
+      "body": "Simak daftar 10 konglomerat terkaya di Tanah Air per November 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261122100746-33-787267/top-pertamina-eco-runfest-2026-raih-elite-label-world-athletics",
+      "headline": "Top! Pertamina Eco RunFest 2026 Raih Elite Label World Athletics",
+      "body": "Pertamina Eco RunFest 2026 raih World Athletics Elite Label. Acara ini mengedepankan keberlanjutan dan akan berlangsung pada 6 Desember 2026.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261122084057-4-787261/ekspor-ri-ke-eropa-diproyeksi-naik-14-usai-ieu-cepa-ini-pemicunya",
+      "headline": "Ekspor RI ke Eropa Diproyeksi Naik 14% Usai IEU-CEPA, Ini Pemicunya",
+      "body": "Kesepakatan IEU-CEPA diproyeksikan meningkatkan ekspor dan PDB RI-Uni Eropa dalam 15 tahun.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8764038/sepeda-anak-diskon-gede-gedean-di-transmart-full-day-sale",
+      "headline": "Sepeda Anak Diskon Gede-gedean di Transmart Full Day Sale!",
+      "body": "Transmart Full Day Sale kembali hadir memberikan diskon gede pada pelanggan seharian penuh.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8764122/harga-emas-makin-lesu-turun-rp-27-ribu-gram-dalam-sepekan",
+      "headline": "Harga Emas Makin Lesu, Turun Rp 27 Ribu/Gram dalam Sepekan",
+      "body": "Harga emas Antam mengalami tren penurunan tajam selama sepekan ini.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8763939/7-keuntungan-buat-ri-usai-teken-ieu-cepa-dengan-uni-eropa",
+      "headline": "7 Keuntungan buat RI Usai Teken IEU-CEPA dengan Uni Eropa",
+      "body": "Indonesia berpeluang meraup sederet keuntungan ekonomi setelah mencapai kesepakatan dagang dengan Uni Eropa melalui IEU-CEPA.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-22",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8763932/cek-aturan-ketat-buat-perusahaan-asuransi",
+      "headline": "Cek! Aturan Ketat buat Perusahaan Asuransi",
+      "body": "OJK menerbitkan Peraturan OJK Nomor 18 Tahun 2026 tentang Perhitungan Solvabilitas Perusahaan Asuransi dan Perusahaan Reasuransi.",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8762703/hari-ini-transmart-full-day-sale-kulkas-tv-hingga-ac-diskon-gede",
+      "headline": "Hari Ini Transmart Full Day Sale! Kulkas, TV, hingga AC Diskon Gede",
+      "body": "Transmart Full Day Sale hadir hari ini, Minggu 22 November 2026.",
       "sectors": []
     },
     {
       "date": "2026-11-21",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261121101436-37-787163/salju-abadi-papua-terancam-tinggal-nama-nasa-ungkap-kondisinya",
-      "headline": "Salju Abadi Papua Terancam Tinggal Nama, NASA Ungkap Kondisinya",
-      "body": "Salju abadi di Papua terancam punah. Citra satelit NASA menunjukkan penurunan drastis gletser Puncak Jaya, dengan kemungkinan hilang pada 2030.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-21",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261118151715-39-786341/video-danantara-dorong-peran-brin-kampus-di-industrialisasi-ri",
-      "headline": "Video: Danantara Dorong Peran BRIN dan Kampus di Industrialisasi RI",
-      "body": "Danantara Dorong Peran BRIN dan Kampus di Industrialisasi Berbasis Teknologi dan Inovasi",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-21",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/research/20261120150106-128-787011/bukan-nato-aliansi-4-negara-ini-bisa-jadi-mimpi-buruk-as",
-      "headline": "Bukan NATO, Aliansi 4 Negara Ini Bisa Jadi Mimpi Buruk AS",
-      "body": "China, Rusia, Iran, dan Korea Utara saling membantu menghadapi tekanan Barat. Kerja sama ini berpotensi mengubah peta kekuatan dunia.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-21",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261121095812-8-787162/penerima-apresiasi-pemerintah-daerah-berprestasi-2026-nusra-maluku",
-      "headline": "Penerima Apresiasi Pemerintah Daerah Berprestasi 2026 Nusra dan Maluku",
-      "body": "Daftar Pemda Penerima Apresiasi Pemerintah Daerah Berprestasi 2026 Regional Nusa Tenggara dan Maluku",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-21",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261120184623-7-787113/potret-kapal-kargo-nyangkut-di-pantai-prancis-19-awak-dievakuasi",
-      "headline": "Potret Kapal Kargo Nyangkut di Pantai Prancis, 19 Awak Dievakuasi",
-      "body": "Kapal kargo MIRO G berbendera Malta kandas di Prancis akibat angin kencang. Sebanyak 19 awak dievakuasi, sementara tiga lainnya bertahan di kapal.",
-      "sectors": []
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8763911/kasus-manipulasi-saham-raup-rp-23-77-miliar-terbongkar",
+      "headline": "Kasus Manipulasi Saham Raup Rp 23,77 Miliar Terbongkar",
+      "body": "OJK mengungkap 10 kasus pelanggaran pasar modal. Tiga kasus soal manipulasi perdagangan saham yang diminta mengembalikan keuntungan tidak sah Rp 23,77 miliar.",
+      "sectors": [
+        "perbankan"
+      ]
     }
   ]
 }
