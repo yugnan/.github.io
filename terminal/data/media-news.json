@@ -1,56 +1,110 @@
 {
-  "updated_at": "2026-11-24T07:26:08.349Z",
+  "updated_at": "2026-11-25T05:56:07.103Z",
   "items": [
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261124140103-4-787972/ledakan-dahsyat-guncang-kantor-gubernur-dari-bom-mobil",
-      "headline": "Ledakan Dahsyat Guncang Kantor Gubernur, Dari Bom Mobil",
-      "body": "Sebuah bom mobil meledak di Villavicencio, Kolombia, menghancurkan kantor gubernur.",
+      "sourceUrl": "https://www.cnbcindonesia.com/opini/20261125124313-14-788303/pinjol-meledak-generasi-muda-terjepit",
+      "headline": "Pinjol Meledak, Generasi Muda Terjepit",
+      "body": "Industri pinjaman daring di Indonesia tumbuh pesat, namun generasi muda terjebak utang. Pentingnya literasi keuangan dan pengelolaan utang yang bijak.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-25",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261125123644-4-788300/mitigasi-perubahan-iklim-ketahanan-pesisir-azko-tanam-1500-mangrove",
+      "headline": "Mitigasi Perubahan Iklim-Ketahanan Pesisir, AZKO Tanam 1.500 Mangrove",
+      "body": "PT Aspirasi Hidup Indonesia Tbk (AHI) melalui AZKO menanam 1.500 pohon mangrove di Karawang untuk mendukung keberlanjutan lingkungan dan masyarakat.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-25",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/market/20261125105221-19-788218/video-bedah-reformasi-hadapi-ancaman-ri-turun-ke-standalone-market",
+      "headline": "Video: Bedah Reformasi Hadapi \"Ancaman\" RI Turun ke Standalone Market",
+      "body": "Bedah Reformasi Bursa Saham Hadapi \"Ancaman\" MSCI Depak RI ke Standalone Market",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-25",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261125112934-8-788242/video-danantara-bidik-investasi-masuk-rp200-triliun-hingga-2028",
+      "headline": "Video: Danantara Bidik Investasi Masuk Rp200 Triliun Hingga 2028",
+      "body": "Danantara Bidik Investasi Masuk Rp200 Triliun Hingga 2028",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-25",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261125112120-4-788236/waspada-fenomena-banyak-warga-ri-bakal-ogah-liburan-di-2027-ada-apa",
+      "headline": "Waspada Fenomena Banyak Warga RI Bakal Ogah Liburan di 2027, Ada Apa?",
+      "body": "Masyarakat Indonesia semakin berhati-hati dalam merencanakan liburan akibat tekanan daya beli dan biaya perjalanan yang meningkat.",
       "sectors": [
-        "otomotif"
+        "consumer goods"
       ]
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261124141502-17-787977/belum-bayar-bunga-obligasi-bei-gembok-lagi-saham-adhi-karya--adhi-",
-      "headline": "Belum Bayar Bunga Obligasi, BEI Gembok Lagi Saham Adhi Karya (ADHI)",
-      "body": "Bursa Efek Indonesia melanjutkan suspensi perdagangan saham PT Adhi Karya (ADHI) setelah perusahaan menunda pembayaran bunga obligasi.",
+      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261125120123-37-788286/solusi-nik-sudah-terpakai-atau-tak-ditemukan-saat-buat-akun-sscasn",
+      "headline": "Solusi NIK Sudah Terpakai atau Tak Ditemukan Saat Buat Akun SSCASN",
+      "body": "Pendaftaran CPNS 2026 dimulai 27 November. Pelamar wajib masukkan NIK dan KK. Temukan solusi jika NIK terdaftar orang lain atau tidak ditemukan.",
       "sectors": []
     },
     {
-      "date": "2026-11-24",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261124115909-33-787919/34650-wni-ditolak-masuk-malaysia-ternyata-ini-penyebabnya",
-      "headline": "34.650 WNI Ditolak Masuk Malaysia, Ternyata Ini Penyebabnya",
-      "body": "Sebanyak 34.650 WNI ditolak masuk Malaysia sejak 2024. Penolakan terjadi karena ketidakcukupan dokumen dan alasan keamanan.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-24",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/opini/20261124140333-14-787973/menggugat-gagasan-minus-growth-asn",
-      "headline": "Menggugat Gagasan Minus Growth ASN",
-      "body": "Artikel ini membahas tantangan efisiensi dalam birokrasi pemerintah di era digital. Ditekankan pentingnya kehadiran negara meski layanan diotomasi.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-24",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261124140604-33-787974/simak-ini-alasan-gigi-geser-lagi-setelah-lepas-behel",
-      "headline": "Simak! Ini Alasan Gigi Geser Lagi Setelah Lepas Behel",
-      "body": "Orthodontic relapse dapat terjadi setelah behel dilepas. Pentingnya penggunaan retainer dan pemeriksaan berkala untuk menjaga posisi gigi tetap stabil.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-24",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261124132408-4-787960/dpr-cecar-pt-mga-utama-energi-dianggap-perusahaan-migas-bodong",
-      "headline": "DPR Cecar PT MGA Utama Energi, Dianggap Perusahaan Migas Bodong",
-      "body": "Komisi XII DPR cecar PT MGA Utama Energi hingga dianggap perusahaan migas bodong.",
+      "date": "2026-11-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8769066/bi-ungkap-modal-asing-masuk-ri-rp-130-t",
+      "headline": "BI Ungkap Modal Asing Masuk RI Rp 130 T",
+      "body": "Bank Indonesia (BI) mencatat aliran modal asing bersih (net inflow) mencapai Rp 130,96 triliun hingga 23 November 2026.",
       "sectors": [
-        "energi"
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/infrastruktur/d-8769027/1-600-km-hutan-perbatasan-ri-bakal-ditembus-tni-ini-proyeknya",
+      "headline": "1.600 Km Hutan Perbatasan RI Bakal Ditembus TNI, Ini Proyeknya",
+      "body": "Kementerian PU dan Kemenhan kolaborasi untuk pembangunan infrastruktur di perbatasan. TNI dilibatkan untuk mengatasi tantangan geografis yang berat.",
+      "sectors": [
+        "infrastruktur"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768998/umk-bekasi-karawang-diteken-kdm-lebih-gede-dari-ump-jakarta",
+      "headline": "UMK Bekasi-Karawang Diteken KDM, Lebih Gede dari UMP Jakarta",
+      "body": "UMK beberapa kota di Jawa Barat lebih besar dari UMP DKI Jakarta.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/cpns/d-8768997/pendaftaran-cpns-2026-dimulai-27-november-154-052-formasi-dibuka",
+      "headline": "Pendaftaran CPNS 2026 Dimulai 27 November, 154.052 Formasi Dibuka",
+      "body": "Kementerian PAN-RB umumkan pendaftaran CPNS 2026 mulai 27 November. Tersedia 154.052 formasi untuk berbagai bidang, termasuk kesehatan dan pendidikan.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768987/bi-prediksi-ekonomi-ri-2027-tumbuh-6-dolar-as-rp-18-200",
+      "headline": "BI Prediksi Ekonomi RI 2027 Tumbuh 6%, Dolar AS Rp 18.200",
+      "body": "Bank Indonesia (BI) memproyeksikan pertumbuhan ekonomi RI di rentang 5,2-6% sepanjang 2027.",
+      "sectors": [
+        "perbankan"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768984/kredit-konsumer-bri-naik-9-jadi-rp-242-9-triliun",
+      "headline": "Kredit Konsumer BRI Naik 9% Jadi Rp 242,9 Triliun",
+      "body": "BRI laporkan kredit konsumer tumbuh 9% menjadi Rp 242,9 triliun hingga Triwulan III 2026. Pertumbuhan didukung oleh produk pembiayaan dan prinsip kehati-hatian.",
+      "sectors": [
+        "perbankan"
       ]
     }
   ]
