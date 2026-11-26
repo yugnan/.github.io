@@ -1,111 +1,103 @@
 {
-  "updated_at": "2026-11-25T05:56:07.103Z",
+  "updated_at": "2026-11-26T05:48:01.768Z",
   "items": [
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/opini/20261125124313-14-788303/pinjol-meledak-generasi-muda-terjepit",
-      "headline": "Pinjol Meledak, Generasi Muda Terjepit",
-      "body": "Industri pinjaman daring di Indonesia tumbuh pesat, namun generasi muda terjebak utang. Pentingnya literasi keuangan dan pengelolaan utang yang bijak.",
+      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261125095405-39-788191/video-pluang-dapat-penghargaan-top-indonesian-stock-app",
+      "headline": "Video: Pluang Dapat Penghargaan \"Top Indonesian Stock App\"",
+      "body": "Pluang Dapat Penghargaan \"Top Indonesian Stock App\"",
       "sectors": []
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261125123644-4-788300/mitigasi-perubahan-iklim-ketahanan-pesisir-azko-tanam-1500-mangrove",
-      "headline": "Mitigasi Perubahan Iklim-Ketahanan Pesisir, AZKO Tanam 1.500 Mangrove",
-      "body": "PT Aspirasi Hidup Indonesia Tbk (AHI) melalui AZKO menanam 1.500 pohon mangrove di Karawang untuk mendukung keberlanjutan lingkungan dan masyarakat.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126122649-4-788677/amran-bersyukur-tidak-ada-keluhan-mungkin-karena-rajin-jalan-di-sawah",
+      "headline": "Amran Bersyukur tidak ada Keluhan: Mungkin Karena Rajin Jalan di Sawah",
+      "body": "Menteri Pertanian Andi Amran Sulaiman selesai menjalani pemeriksaan kesehatan untuk verifikasi calon wakil presiden 2024-2029 di RSPAD. Semua berjalan lancar.",
       "sectors": []
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/market/20261125105221-19-788218/video-bedah-reformasi-hadapi-ancaman-ri-turun-ke-standalone-market",
-      "headline": "Video: Bedah Reformasi Hadapi \"Ancaman\" RI Turun ke Standalone Market",
-      "body": "Bedah Reformasi Bursa Saham Hadapi \"Ancaman\" MSCI Depak RI ke Standalone Market",
+      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261126113734-33-788650/burj-khalifa-bukan-lagi-gedung-tertinggi-di-dunia-ini-penggantinya",
+      "headline": "Burj Khalifa Bukan Lagi Gedung Tertinggi di Dunia, Ini Penggantinya",
+      "body": "Burj Khalifa terancam kehilangan gelar gedung tertinggi dunia. Jeddah Tower dan Rise Tower di Saudi Arabia siap menantang dengan ketinggian ambisius.",
       "sectors": []
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261125112934-8-788242/video-danantara-bidik-investasi-masuk-rp200-triliun-hingga-2028",
-      "headline": "Video: Danantara Bidik Investasi Masuk Rp200 Triliun Hingga 2028",
-      "body": "Danantara Bidik Investasi Masuk Rp200 Triliun Hingga 2028",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126121821-4-788662/rupiah-terus-melemah-bisa-rp22000-us--pengusaha-segera-lakukan-ini",
+      "headline": "Rupiah Terus Melemah-Bisa Rp22.000/US$, Pengusaha Segera Lakukan Ini",
+      "body": "Pelemahan rupiah hingga Rp22.000/US$ dapat berdampak serius bagi pengusaha. Kadin mengingatkan perlunya antisipasi dan perbaikan iklim investasi.",
       "sectors": []
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261125112120-4-788236/waspada-fenomena-banyak-warga-ri-bakal-ogah-liburan-di-2027-ada-apa",
-      "headline": "Waspada Fenomena Banyak Warga RI Bakal Ogah Liburan di 2027, Ada Apa?",
-      "body": "Masyarakat Indonesia semakin berhati-hati dalam merencanakan liburan akibat tekanan daya beli dan biaya perjalanan yang meningkat.",
-      "sectors": [
-        "consumer goods"
-      ]
-    },
-    {
-      "date": "2026-11-25",
-      "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261125120123-37-788286/solusi-nik-sudah-terpakai-atau-tak-ditemukan-saat-buat-akun-sscasn",
-      "headline": "Solusi NIK Sudah Terpakai atau Tak Ditemukan Saat Buat Akun SSCASN",
-      "body": "Pendaftaran CPNS 2026 dimulai 27 November. Pelamar wajib masukkan NIK dan KK. Temukan solusi jika NIK terdaftar orang lain atau tidak ditemukan.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126115503-4-788656/bos-pln-buka-bukaan-subsidi-listrik-ke-data-center-tembus-rp8-triliun",
+      "headline": "Bos PLN Buka-Bukaan, Subsidi Listrik ke Data Center Tembus Rp8 Triliun",
+      "body": "Dirut PLN Suroso mengungkapkan subsidi listrik untuk Data Center tembus Rp8 triliun",
       "sectors": []
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
+      "source": "CNBC Indonesia",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126113822-4-788651/perkuat-sistem-operasional-gudang-bisnis-mdiy-makin-kokoh",
+      "headline": "Perkuat Sistem Operasional Gudang, Bisnis MDIY Makin Kokoh",
+      "body": "MR.D.I.Y. Indonesia optimalkan operasional warehouse dengan sistem otomatis untuk memenuhi kebutuhan stok ratusan toko. Inovasi ramah lingkungan juga diterapkan",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-26",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/bursa-dan-valas/d-8769066/bi-ungkap-modal-asing-masuk-ri-rp-130-t",
-      "headline": "BI Ungkap Modal Asing Masuk RI Rp 130 T",
-      "body": "Bank Indonesia (BI) mencatat aliran modal asing bersih (net inflow) mencapai Rp 130,96 triliun hingga 23 November 2026.",
-      "sectors": [
-        "perbankan"
-      ]
-    },
-    {
-      "date": "2026-11-25",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/infrastruktur/d-8769027/1-600-km-hutan-perbatasan-ri-bakal-ditembus-tni-ini-proyeknya",
-      "headline": "1.600 Km Hutan Perbatasan RI Bakal Ditembus TNI, Ini Proyeknya",
-      "body": "Kementerian PU dan Kemenhan kolaborasi untuk pembangunan infrastruktur di perbatasan. TNI dilibatkan untuk mengatasi tantangan geografis yang berat.",
-      "sectors": [
-        "infrastruktur"
-      ]
-    },
-    {
-      "date": "2026-11-25",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768998/umk-bekasi-karawang-diteken-kdm-lebih-gede-dari-ump-jakarta",
-      "headline": "UMK Bekasi-Karawang Diteken KDM, Lebih Gede dari UMP Jakarta",
-      "body": "UMK beberapa kota di Jawa Barat lebih besar dari UMP DKI Jakarta.",
+      "sourceUrl": "https://finance.detik.com/perencanaan-keuangan/d-8770819/mau-investasi-reksa-dana-dolar-as-begini-peluang-dan-risikonya",
+      "headline": "Mau Investasi Reksa Dana Dolar AS? Begini Peluang dan Risikonya",
+      "body": "Reksa dana berdenominasi dolar AS (USD) bisa menjadi instrumen alternatif bagi investor yang ingin melakukan divestasi.",
       "sectors": []
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/cpns/d-8768997/pendaftaran-cpns-2026-dimulai-27-november-154-052-formasi-dibuka",
-      "headline": "Pendaftaran CPNS 2026 Dimulai 27 November, 154.052 Formasi Dibuka",
-      "body": "Kementerian PAN-RB umumkan pendaftaran CPNS 2026 mulai 27 November. Tersedia 154.052 formasi untuk berbagai bidang, termasuk kesehatan dan pendidikan.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-25",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768987/bi-prediksi-ekonomi-ri-2027-tumbuh-6-dolar-as-rp-18-200",
-      "headline": "BI Prediksi Ekonomi RI 2027 Tumbuh 6%, Dolar AS Rp 18.200",
-      "body": "Bank Indonesia (BI) memproyeksikan pertumbuhan ekonomi RI di rentang 5,2-6% sepanjang 2027.",
+      "sourceUrl": "https://finance.detik.com/moneter/d-8770791/caplok-emirates-islamic-dib-jadi-bank-syariah-terbesar-kedua-di-dunia",
+      "headline": "Caplok Emirates Islamic, DIB Jadi Bank Syariah Terbesar Kedua di Dunia",
+      "body": "Dubai Islamic Bank (DIB) akan mengakuisisi bank syariah yang lebih kecil, Emirates Islamic Bank.",
       "sectors": [
         "perbankan"
       ]
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768984/kredit-konsumer-bri-naik-9-jadi-rp-242-9-triliun",
-      "headline": "Kredit Konsumer BRI Naik 9% Jadi Rp 242,9 Triliun",
-      "body": "BRI laporkan kredit konsumer tumbuh 9% menjadi Rp 242,9 triliun hingga Triwulan III 2026. Pertumbuhan didukung oleh produk pembiayaan dan prinsip kehati-hatian.",
-      "sectors": [
-        "perbankan"
-      ]
+      "sourceUrl": "https://finance.detik.com/fintech/d-8770780/indodax-tinggalkan-cfx-resmi-pindah-ke-bursa-kripto-icex",
+      "headline": "Indodax Tinggalkan CFX, Resmi Pindah ke Bursa Kripto ICEx",
+      "body": "PT Indodax Nasional Indonesia (INDODAX) resmi memindahkan keanggotaan bursanya dari PT Central Finansial X (CFX) ke Indonesia Crypto Exchange (ICEx).",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770767/dana-kelolaan-ina-naik-jadi-rp-149-triliun-dalam-5-tahun",
+      "headline": "Dana Kelolaan INA Naik Jadi Rp 149 Triliun dalam 5 Tahun",
+      "body": "Angka ini naik hampir dua kali lipat jika dibandingkan modal awal pendirian pada 2020 lalu yang sebesar Rp 75 triliun.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770751/hasil-blusukan-bos-bulog-di-pasar-senen-harga-cabai-di-atas-rata-rata",
+      "headline": "Hasil Blusukan Bos Bulog di Pasar Senen: Harga Cabai di Atas Rata-rata",
+      "body": "Direktur Utama Perum Bulog, Ahmad Rizal, memantau harga pangan di Pasar Senen menjelang Nataru 2027, harga cabai masih tinggi.",
+      "sectors": []
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Detik Finance",
+      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770696/layani-1-400-toko-intip-inovasi-teknologi-di-balik-gudang-mr-d-i-y",
+      "headline": "Layani 1.400 Toko, Intip Inovasi Teknologi di Balik Gudang MR.D.I.Y.",
+      "body": "MR.D.I.Y. Indonesia mengembangkan inovasi teknologi untuk mengelola distribusi 18.000 produk ke 1.400 toko.",
+      "sectors": []
     }
   ]
 }
