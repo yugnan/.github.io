@@ -1,102 +1,52 @@
 {
-  "updated_at": "2026-11-26T05:48:01.768Z",
+  "updated_at": "2026-11-28T05:21:43.725Z",
   "items": [
     {
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/tech/20261125095405-39-788191/video-pluang-dapat-penghargaan-top-indonesian-stock-app",
-      "headline": "Video: Pluang Dapat Penghargaan \"Top Indonesian Stock App\"",
-      "body": "Pluang Dapat Penghargaan \"Top Indonesian Stock App\"",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261128121437-4-789306/kemendagri-industri-jadi-mesin-pertumbuhan-ekonomi-jawa-tengah",
+      "headline": "Kemendagri: Industri Jadi Mesin Pertumbuhan Ekonomi Jawa Tengah",
+      "body": "Kemendagri menyatakan industri sebagai mesin pertumbuhan ekonomi Jawa Tengah. Transformasi dari pertanian ke industri jadi fokus utama perekonomian Jateng.",
       "sectors": []
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126122649-4-788677/amran-bersyukur-tidak-ada-keluhan-mungkin-karena-rajin-jalan-di-sawah",
-      "headline": "Amran Bersyukur tidak ada Keluhan: Mungkin Karena Rajin Jalan di Sawah",
-      "body": "Menteri Pertanian Andi Amran Sulaiman selesai menjalani pemeriksaan kesehatan untuk verifikasi calon wakil presiden 2024-2029 di RSPAD. Semua berjalan lancar.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261128121104-4-789305/ri-punya-waktu-2-tahun-untuk-keluar-dari-middle-income-trap",
+      "headline": "RI Punya Waktu 2 Tahun untuk Keluar dari Middle Income Trap",
+      "body": "Direktur Jenderal Otonomi Daerah Cheka Virgowansyah menyatakan Indonesia memiliki waktu 2 tahun untuk keluar dari kelompok negara berpendapatan menengah.",
       "sectors": []
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/lifestyle/20261126113734-33-788650/burj-khalifa-bukan-lagi-gedung-tertinggi-di-dunia-ini-penggantinya",
-      "headline": "Burj Khalifa Bukan Lagi Gedung Tertinggi di Dunia, Ini Penggantinya",
-      "body": "Burj Khalifa terancam kehilangan gelar gedung tertinggi dunia. Jeddah Tower dan Rise Tower di Saudi Arabia siap menantang dengan ketinggian ambisius.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261127175748-7-789185/estonia-mendadak-mau-blokir-perbatasan-rusia-ada-apa",
+      "headline": "Estonia Mendadak Mau Blokir Perbatasan Rusia, Ada Apa?",
+      "body": "Estonia akan menutup perlintasan perbatasan daratnya dengan Rusia atas alasan keamanan selama setidaknya enam bulan.",
       "sectors": []
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126121821-4-788662/rupiah-terus-melemah-bisa-rp22000-us--pengusaha-segera-lakukan-ini",
-      "headline": "Rupiah Terus Melemah-Bisa Rp22.000/US$, Pengusaha Segera Lakukan Ini",
-      "body": "Pelemahan rupiah hingga Rp22.000/US$ dapat berdampak serius bagi pengusaha. Kadin mengingatkan perlunya antisipasi dan perbaikan iklim investasi.",
+      "sourceUrl": "https://www.cnbcindonesia.com/research/20261128101707-128-789281/dolar-ngamuk-yen-ringgit--rupiah-jadi-korban-anehnya-won-melesat",
+      "headline": "Dolar Ngamuk! Yen, Ringgit - Rupiah Jadi Korban, Anehnya Won Melesat",
+      "body": "Mata uang Asia mayoritas melemah pada pekan ini, termasuk rupiah",
       "sectors": []
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126115503-4-788656/bos-pln-buka-bukaan-subsidi-listrik-ke-data-center-tembus-rp8-triliun",
-      "headline": "Bos PLN Buka-Bukaan, Subsidi Listrik ke Data Center Tembus Rp8 Triliun",
-      "body": "Dirut PLN Suroso mengungkapkan subsidi listrik untuk Data Center tembus Rp8 triliun",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261123090230-8-787449/video-masalah-ini-bikin-produksi-kopi-ri-kalah-dari-vietnam-brazil",
+      "headline": "Video: Masalah Ini Bikin Produksi Kopi RI Kalah dari Vietnam dan Brazil",
+      "body": "Jadi Masalah Menahun, Ini Sebab Produksi Kopi RI Kalah dari Vietnam dan Brazil",
       "sectors": []
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "source": "CNBC Indonesia",
-      "sourceUrl": "https://www.cnbcindonesia.com/news/20261126113822-4-788651/perkuat-sistem-operasional-gudang-bisnis-mdiy-makin-kokoh",
-      "headline": "Perkuat Sistem Operasional Gudang, Bisnis MDIY Makin Kokoh",
-      "body": "MR.D.I.Y. Indonesia optimalkan operasional warehouse dengan sistem otomatis untuk memenuhi kebutuhan stok ratusan toko. Inovasi ramah lingkungan juga diterapkan",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/perencanaan-keuangan/d-8770819/mau-investasi-reksa-dana-dolar-as-begini-peluang-dan-risikonya",
-      "headline": "Mau Investasi Reksa Dana Dolar AS? Begini Peluang dan Risikonya",
-      "body": "Reksa dana berdenominasi dolar AS (USD) bisa menjadi instrumen alternatif bagi investor yang ingin melakukan divestasi.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/moneter/d-8770791/caplok-emirates-islamic-dib-jadi-bank-syariah-terbesar-kedua-di-dunia",
-      "headline": "Caplok Emirates Islamic, DIB Jadi Bank Syariah Terbesar Kedua di Dunia",
-      "body": "Dubai Islamic Bank (DIB) akan mengakuisisi bank syariah yang lebih kecil, Emirates Islamic Bank.",
-      "sectors": [
-        "perbankan"
-      ]
-    },
-    {
-      "date": "2026-11-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/fintech/d-8770780/indodax-tinggalkan-cfx-resmi-pindah-ke-bursa-kripto-icex",
-      "headline": "Indodax Tinggalkan CFX, Resmi Pindah ke Bursa Kripto ICEx",
-      "body": "PT Indodax Nasional Indonesia (INDODAX) resmi memindahkan keanggotaan bursanya dari PT Central Finansial X (CFX) ke Indonesia Crypto Exchange (ICEx).",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770767/dana-kelolaan-ina-naik-jadi-rp-149-triliun-dalam-5-tahun",
-      "headline": "Dana Kelolaan INA Naik Jadi Rp 149 Triliun dalam 5 Tahun",
-      "body": "Angka ini naik hampir dua kali lipat jika dibandingkan modal awal pendirian pada 2020 lalu yang sebesar Rp 75 triliun.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770751/hasil-blusukan-bos-bulog-di-pasar-senen-harga-cabai-di-atas-rata-rata",
-      "headline": "Hasil Blusukan Bos Bulog di Pasar Senen: Harga Cabai di Atas Rata-rata",
-      "body": "Direktur Utama Perum Bulog, Ahmad Rizal, memantau harga pangan di Pasar Senen menjelang Nataru 2027, harga cabai masih tinggi.",
-      "sectors": []
-    },
-    {
-      "date": "2026-11-26",
-      "source": "Detik Finance",
-      "sourceUrl": "https://finance.detik.com/berita-ekonomi-bisnis/d-8770696/layani-1-400-toko-intip-inovasi-teknologi-di-balik-gudang-mr-d-i-y",
-      "headline": "Layani 1.400 Toko, Intip Inovasi Teknologi di Balik Gudang MR.D.I.Y.",
-      "body": "MR.D.I.Y. Indonesia mengembangkan inovasi teknologi untuk mengelola distribusi 18.000 produk ke 1.400 toko.",
+      "sourceUrl": "https://www.cnbcindonesia.com/news/20261128091856-4-789277/passing-grade-cpns-2026-resmi-ditetapkan-ini-rinciannya",
+      "headline": "Passing Grade CPNS 2026 Resmi Ditetapkan, Ini Rinciannya",
+      "body": "Rincian passing grade seleksi kompetensi dasar CPNS 2026",
       "sectors": []
     }
   ]
